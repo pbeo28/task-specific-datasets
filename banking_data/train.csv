@@ -1289,11 +1289,7 @@ Karta ime nuk ka funksionuar as për transaksione të vogla sot.,card_not_workin
 "Papritur, karta ime nuk do të funksionojë.",card_not_working
 Karta ime nuk ka funksionuar kur përpiqem ta përdor.,card_not_working
 Karta ime fizike nuk funksionon,card_not_working
-,card_not_working
 Më duket se nuk mund ta përdor kartën time,card_not_working
-,card_not_working
-,card_not_working
-,card_not_working
 Pse karta ime fizike nuk funksionon?,card_not_working
 Ndihmë. Karta ime është e prishur.,card_not_working
 Unë nuk jam në gjendje të përdor kartën time.,card_not_working
@@ -1356,10 +1352,10 @@ Karta ime nuk funksionon.,card_not_working
 Karta ime nuk do të funksionojë tani.,card_not_working
 Si mund të ndodhë që Karta ime nuk funksionon më?,card_not_working
 Çfarë po ndodh me kartën time? Unë e kam provuar disa herë dhe nuk kalon kurrë.,card_not_working
-SA KOHA PËR TË ZGJIDHUR,exchange_via_app
-Çfarë duhet të bëj nëse karta ime nuk funksionon?,exchange_via_app
-Çfarë duhet të bëj nëse karta ime fizike nuk funksionon?,exchange_via_app
-Karta që kam nuk funksionon. Kjo është karta fizike.,exchange_via_app
+SA KOHA PËR TË ZGJIDHUR,card_not_working
+Çfarë duhet të bëj nëse karta ime nuk funksionon?,card_not_working
+Çfarë duhet të bëj nëse karta ime fizike nuk funksionon?,card_not_working
+Karta që kam nuk funksionon. Kjo është karta fizike.,card_not_working
 A mund të ndryshoj nga AUD në GBP?,exchange_via_app
 "Më duhet të shkëmbej midis monedhave të ndryshme, si GBP dhe USD. A mund ta bëj këtë me aplikacionin tuaj?",exchange_via_app
 Si mund të ndryshoj në një monedhë tjetër?,exchange_via_app
@@ -1474,10 +1470,10 @@ A mund të shkëmbej USD dhe GBP nga aplikacioni?,exchange_via_app
 Cilat monedha të tjera janë në dispozicion për të ndryshuar?,exchange_via_app
 me çfarë monedhash mund të shkëmbej në aplikacionin tuaj?,exchange_via_app
 A mund të shkëmbejë ky aplikacion monedhën amerikane dhe angleze?,exchange_via_app
-Planet e mia mund të ndryshojnë kështu që mund të më duhet të ndryshoj nga GBP në AUD.,lost_or_stolen_card
-A lejon aplikacioni shkëmbime midis monedhave?,lost_or_stolen_card
-"Mund të mos më duhet më GBP, por në vend të kësaj do të më duhet AUD, si mund të bëj këtë ndryshim?",lost_or_stolen_card
-A mund ta përdor këtë aplikacion për të ndryshuar para?,lost_or_stolen_card
+Planet e mia mund të ndryshojnë kështu që mund të më duhet të ndryshoj nga GBP në AUD.,exchange_via_app
+A lejon aplikacioni shkëmbime midis monedhave?,exchange_via_app
+"Mund të mos më duhet më GBP, por në vend të kësaj do të më duhet AUD, si mund të bëj këtë ndryshim?",exchange_via_app
+A mund ta përdor këtë aplikacion për të ndryshuar para?,exchange_via_app
 A ka pasur ndonjë aktivitet në kartën time sot?,lost_or_stolen_card
 Kam humbur portofolin tim dhe të gjitha kartat e mia ishin në të.,lost_or_stolen_card
 Unë jam në panik! Kam humbur kartën time! Ndihmë!,lost_or_stolen_card
@@ -1556,10 +1552,10 @@ A ka ndonjë mënyrë që ju të gjeni kartën time?,lost_or_stolen_card
 Unë kam humbur kartën time. Çfarë mund të bëj për këtë?,lost_or_stolen_card
 E lashë kartën time në një restorant dhe tani ajo mungon.,lost_or_stolen_card
 Mund të më ndihmoni të marr kartën time?,lost_or_stolen_card
-Kam humbur kartën time. A mund te me ndihmosh?,age_limit
-Cfare duhet te bej? Më është vjedhur kartela!,age_limit
-Kartën ma vodhën mbrëmë.,age_limit
-A mund të më ndihmoni të gjej kartën time të humbur?,age_limit
+Kam humbur kartën time. A mund te me ndihmosh?,lost_or_stolen_card
+Cfare duhet te bej? Më është vjedhur kartela!,lost_or_stolen_card
+Kartën ma vodhën mbrëmë.,lost_or_stolen_card
+A mund të më ndihmoni të gjej kartën time të humbur?,lost_or_stolen_card
 Unë dua të hap një llogari për fëmijët e mi,age_limit
 Sa vjeç duhet të jeni për të përdorur shërbimet e bankës?,age_limit
 Cila është mosha minimale për të pasur një llogari,age_limit
@@ -1666,10 +1662,10 @@ Cila është kërkesa e moshës?,age_limit
 A ka një moshë të caktuar që duhet të jem?,age_limit
 A është fëmija im shumë i vogël për t'u regjistruar?,age_limit
 A mund të hap një llogari për fëmijët e mi?,age_limit
-A mund të bëj një llogari për vajzën time?,pin_blocked
-Cili është më i riu që mund të jem për të hapur një llogari?,pin_blocked
-A keni një kërkesë moshe kur hapni një llogari me shërbimin tuaj?,pin_blocked
-A është e mundur që unë të krijoj llogari të veçanta për fëmijët e mi?,pin_blocked
+A mund të bëj një llogari për vajzën time?,age_limit
+Cili është më i riu që mund të jem për të hapur një llogari?,age_limit
+A keni një kërkesë moshe kur hapni një llogari me shërbimin tuaj?,age_limit
+A është e mundur që unë të krijoj llogari të veçanta për fëmijët e mi?,age_limit
 Unë e kam tejkaluar numrin e përpjekjeve për PIN,pin_blocked
 Gabova kunjat dhe tani jam mbyllur. Mund të më zhbllokoni?,pin_blocked
 "Ju lutem më ndihmoni të zhbllokoj pinin tim, të cilin e vendosa shumë herë të gabuar.",pin_blocked
@@ -1713,7 +1709,6 @@ Si mund të shkoj për të zhbllokuar një kunj?,pin_blocked
 Kam futur kodin PIN të gabuar. Ju lutem më ndihmoni të zhbllokoj llogarinë time.,pin_blocked
 "Nëse numri im PIN refuzohet, si ta zgjidh?",pin_blocked
 Pse u bllokua PIN-i im?,pin_blocked
-,pin_blocked
 Kam vënë shumë herë pinin e gabuar dhe tani është bllokuar. Mund të më ndihmoni ta zhbllokoj?,pin_blocked
 Ku mund të shkoj për të zhbllokuar kodin PIN?,pin_blocked
 Cila është procedura e zhbllokimit të PIN-it tim?,pin_blocked
@@ -1726,7 +1721,6 @@ Si mund ta rivendos numrin tim të mallkuar PIN?,pin_blocked
 Llogaria ime është e bllokuar sepse kam përdorur pinin e gabuar shumë herë. Ju lutemi ndihmoni.p,pin_blocked
 "PIN-i im nuk mund të hyjë në kartën time, a mund të më ndihmoni?.",pin_blocked
 "Pasi vendosa shumë herë PIN-in e gabuar, u bllokova. Mund të më ndihmoni për ta ndryshuar atë?",pin_blocked
-,pin_blocked
 Si ta zhbllokoj PIN-in tim?,pin_blocked
 Çfarë ndodh nëse harroj PIN-in tim?,pin_blocked
 Kam vënë shumë herë pinin e gabuar dhe tani është bllokuar. Mund të më ndihmoni ta zhbllokoj?,pin_blocked
@@ -1781,12 +1775,12 @@ Kam futur pinin e gabuar shumë herë dhe tani mendoj se është bllokuar. Çfar
 "PIN-i im nuk funksionon, a mund të më ndihmoni?",pin_blocked
 Si mund ta zhbllokoj llogarinë time pasi kam shtypur shumë herë kodin PIN të gabuar?,pin_blocked
 E kam futur pinin gabim shumë herë dhe tani është bllokuar. Mund të më ndihmoni?,pin_blocked
-A mund të zhbllokoni pinin tim sepse kam vendosur të gabuarën shumë herë.,contactless_not_working
-Më duhet një numër i ri PIN.,contactless_not_working
-Mund të zhbllokoni llogarinë time? Kam futur gabim kodin PIN.,contactless_not_working
-E kam provuar PIN-in tim shumë herë,contactless_not_working
-Kam goditur shumë herë në kunja e gabuar dhe jam mbyllur jashtë.,contactless_not_working
-Nuk mund ta kuptoj se si ta zhbllokoj numrin tim të pinit. A mund te me ndihmosh?,contactless_not_working
+A mund të zhbllokoni pinin tim sepse kam vendosur të gabuarën shumë herë.,pin_blocked
+Më duhet një numër i ri PIN.,pin_blocked
+Mund të zhbllokoni llogarinë time? Kam futur gabim kodin PIN.,pin_blocked
+E kam provuar PIN-in tim shumë herë,pin_blocked
+Kam goditur shumë herë në kunja e gabuar dhe jam mbyllur jashtë.,pin_blocked
+Nuk mund ta kuptoj se si ta zhbllokoj numrin tim të pinit. A mund te me ndihmosh?,pin_blocked
 A duhet ta çinstaloj aplikacionin përpara se ta provoj përsëri?,contactless_not_working
 Si ndodhi që kur u përpoqa të paguaja pa kontakt në autobus nuk funksionoi?,contactless_not_working
 Pse pa kontakt nuk funksionon?,contactless_not_working
@@ -1816,12 +1810,12 @@ Si mund të marr një kartë të re?,contactless_not_working
 "Pa kontakt ime pushoi së punuari sot, pavarësisht se ku përpiqem ta përdor. Si mund ta bëj që të fillojë të punojë përsëri?",contactless_not_working
 Si t'i zgjidh problemet kur pa kontakt nuk funksionon?,contactless_not_working
 Si mund ta rregulloj kartën time nëse funksioni pa kontakt nuk funksionoi këtë mëngjes?,contactless_not_working
-"Më herët po përpiqesha të përdorja pa kontakt, por nuk funksionoi.",top_up_by_bank_transfer_charge
-Pse nuk do të funksiononte puna ime pa kontakt për metro?,top_up_by_bank_transfer_charge
-A janë të sakta cilësimet e mia pa kontakt? U përpoqa ta përdor sot por nuk funksionoi.,top_up_by_bank_transfer_charge
-Kam probleme me pa kontakt.,top_up_by_bank_transfer_charge
-"Kam probleme me përdorimin e pagesave pa kontakt, a mund të dëmtohet karta ime?",top_up_by_bank_transfer_charge
-"Cila është arsyeja kur u përpoqa të paguaj pa kontakt në autobus, nuk funksionoi?",top_up_by_bank_transfer_charge
+"Më herët po përpiqesha të përdorja pa kontakt, por nuk funksionoi.",contactless_not_working
+Pse nuk do të funksiononte puna ime pa kontakt për metro?,contactless_not_working
+A janë të sakta cilësimet e mia pa kontakt? U përpoqa ta përdor sot por nuk funksionoi.,contactless_not_working
+Kam probleme me pa kontakt.,contactless_not_working
+"Kam probleme me përdorimin e pagesave pa kontakt, a mund të dëmtohet karta ime?",contactless_not_working
+"Cila është arsyeja kur u përpoqa të paguaj pa kontakt në autobus, nuk funksionoi?",contactless_not_working
 A ka një tarifë shtesë për transferimin?,top_up_by_bank_transfer_charge
 A do të ketë një tarifë për rimbushjen me llogari me një transfertë SEPA?,top_up_by_bank_transfer_charge
 Cilat janë tarifat për marrjen e një transferte SEPA?,top_up_by_bank_transfer_charge
@@ -1927,12 +1921,12 @@ Sa kushton për të bërë një transferim?,top_up_by_bank_transfer_charge
 "Nëse plotësoj me transfertë, a do të tarifohem?",top_up_by_bank_transfer_charge
 Cilat janë tarifat për marrjen e transfertave SEPA?,top_up_by_bank_transfer_charge
 A ka ndonjë tarifë të lidhur me marrjen e parave?,top_up_by_bank_transfer_charge
-Sa kushton çdo transferim?,pending_top_up
-A ka ndonjë tarifë të lidhur me marrjen e parave me këtë llogari?,pending_top_up
-A do të tarifohem për të plotësuar llogarinë time?,pending_top_up
-Çfarë lloj tarife ka për të rimbushur llogarinë time?,pending_top_up
-A i përpunoni transfertat SWIFT?,pending_top_up
-Dua të bëj një transferim të shpejtë,pending_top_up
+Sa kushton çdo transferim?,top_up_by_bank_transfer_charge
+A ka ndonjë tarifë të lidhur me marrjen e parave me këtë llogari?,top_up_by_bank_transfer_charge
+A do të tarifohem për të plotësuar llogarinë time?,top_up_by_bank_transfer_charge
+Çfarë lloj tarife ka për të rimbushur llogarinë time?,top_up_by_bank_transfer_charge
+A i përpunoni transfertat SWIFT?,top_up_by_bank_transfer_charge
+Dua të bëj një transferim të shpejtë,top_up_by_bank_transfer_charge
 Sa kohë duhet për të kaluar një rimbushje?,pending_top_up
 Kam përshtypjen se rimbushja ime është ende në pritje,pending_top_up
 Sa kohë do të duhet që paratë e mia të depozitohen?,pending_top_up
@@ -2076,12 +2070,12 @@ Cila është arsyeja që rimbushja ime është ende në pritje?,pending_top_up
 Kur do të kalojë mbushja ime?,pending_top_up
 Ju lutemi renditni mbushjen tuaj! Rimbushja ime ka qenë në pritje për një orë tashmë. Ju lutem mund ta bëni atë të kalojë sa më shpejt të jetë e mundur. Më duhen vërtet paratë.,pending_top_up
 Rimbushja ime nuk ka postuar.,pending_top_up
-"Bëra një rimbushje dje, por është ende në pritje.",cancel_transfer
-"Përshëndetje, unë jam një klient krejt i ri dhe u përpoqa të mbushja për herë të parë sot. Ka gjysmë ore në pritje dhe duket se nuk funksionon. Ju lutemi zgjidhni këtë.",cancel_transfer
-Unë kam një kartë të re dhe nuk mund t'i shtoj para. Provova rreth 30 minuta më parë dhe është ende në pritje. Çfarë të bëj?,cancel_transfer
-Nuk jam i sigurt që rimbushja ime ka kaluar ende.,cancel_transfer
-Unë kam qenë duke pritur për më shumë se një orë për një rimbushje. Sa kohë duhet të zgjasë kjo? Më duhen vërtet këto para.,cancel_transfer
-Ku të kontrolloni rimbushjet në pritje?,cancel_transfer
+"Bëra një rimbushje dje, por është ende në pritje.",pending_top_up
+"Përshëndetje, unë jam një klient krejt i ri dhe u përpoqa të mbushja për herë të parë sot. Ka gjysmë ore në pritje dhe duket se nuk funksionon. Ju lutemi zgjidhni këtë.",pending_top_up
+Unë kam një kartë të re dhe nuk mund t'i shtoj para. Provova rreth 30 minuta më parë dhe është ende në pritje. Çfarë të bëj?,pending_top_up
+Nuk jam i sigurt që rimbushja ime ka kaluar ende.,pending_top_up
+Unë kam qenë duke pritur për më shumë se një orë për një rimbushje. Sa kohë duhet të zgjasë kjo? Më duhen vërtet këto para.,pending_top_up
+Ku të kontrolloni rimbushjet në pritje?,pending_top_up
 Anuloni një transaksion,cancel_transfer
 A mund të anuloj një transferim që sapo bëra,cancel_transfer
 "Më duhej të bëja një pagesë në llogarinë time, por shkruajta numrin e gabuar. Aplikacioni nuk do të më lejojë ta anuloj këtë transaksion. Më duhet të anulohet ASAP!!",cancel_transfer
@@ -2233,12 +2227,12 @@ Unë kam nevojë për ndihmë tani. E kuptoj se e dërgova pagesën në numrin e
 Unë kam nevojë për ndihmë sa më shpejt të jetë e mundur! Kam bërë një gabim në transferimin tim më të fundit; ju lutem mund ta ndaloni para se të kalojë?,cancel_transfer
 Unë dua të anuloj një transaksion nga ky mëngjes.,cancel_transfer
 Është bërë një transferim në llogarinë time që duhet ta anuloj. Ky ishte një gabim nga ana ime dhe shpresoj se mund ta zgjidhim këtë shpejt.,cancel_transfer
-Më duhet të anuloj transferimin tim të fundit. Kam bërë një gabim. Ju lutemi ndihmoni shpejt përpara se transferimi të kryhet.,top_up_limits
-Jam shumë i mërzitur sepse kam bërë një gabim shtypi gjatë një transferte dhe tani kam dërguar para në llogarinë e gabuar. Nuk mund ta rregulloj këtë me aplikacionin. Ju lutem më ndihmoni menjëherë!,top_up_limits
-Kishte një transaksion këtë mëngjes që do të doja ta anuloja.,top_up_limits
-Çfarë duhet të bëj për të anuluar një transferim?,top_up_limits
-"Doja të transferoja para në një llogari tjetër, por tani nuk më duhet, kështu që do të doja ta anuloja transferimin e përmendur. Si mund ta bëj këtë?",top_up_limits
-ju lutem anuloni transaksionin,top_up_limits
+Më duhet të anuloj transferimin tim të fundit. Kam bërë një gabim. Ju lutemi ndihmoni shpejt përpara se transferimi të kryhet.,cancel_transfer
+Jam shumë i mërzitur sepse kam bërë një gabim shtypi gjatë një transferte dhe tani kam dërguar para në llogarinë e gabuar. Nuk mund ta rregulloj këtë me aplikacionin. Ju lutem më ndihmoni menjëherë!,cancel_transfer
+Kishte një transaksion këtë mëngjes që do të doja ta anuloja.,cancel_transfer
+Çfarë duhet të bëj për të anuluar një transferim?,cancel_transfer
+"Doja të transferoja para në një llogari tjetër, por tani nuk më duhet, kështu që do të doja ta anuloja transferimin e përmendur. Si mund ta bëj këtë?",cancel_transfer
+ju lutem anuloni transaksionin,cancel_transfer
 Sa është shuma maksimale e rimbushjeve?,top_up_limits
 A janë rimbushjet e pakufizuara?,top_up_limits
 A mund të rris maksimumin tim të rimbushjes?,top_up_limits
@@ -2330,12 +2324,12 @@ a ka një kufi për mbushjet,top_up_limits
 Cili është kufiri i rimbushjes në kartat e mia?,top_up_limits
 Cili është kufiri im për mbushje?,top_up_limits
 cilat janë kufijtë për të plotësuar,top_up_limits
-A ka ndonjë shumë në të cilën do të më ndërpritet plotësimi?,wrong_amount_of_cash_received
-Sa është kufiri për rimbushjet?,wrong_amount_of_cash_received
-Sa mund të mbush kartën time?,wrong_amount_of_cash_received
-kufizimet në mbushjet,wrong_amount_of_cash_received
-Cili është kufiri ditor në kartën time?,wrong_amount_of_cash_received
-Cili është kufiri i rimbushjes?,wrong_amount_of_cash_received
+A ka ndonjë shumë në të cilën do të më ndërpritet plotësimi?,top_up_limits
+Sa është kufiri për rimbushjet?,top_up_limits
+Sa mund të mbush kartën time?,top_up_limits
+kufizimet në mbushjet,top_up_limits
+Cili është kufiri ditor në kartën time?,top_up_limits
+Cili është kufiri i rimbushjes?,top_up_limits
 Pse mora vetëm një shumë të pjesshme të asaj që u përpoqa të tërhiqja?,wrong_amount_of_cash_received
 transaksioni im me bankomat ishte i gabuar,wrong_amount_of_cash_received
 pse mora vetem 20.00,wrong_amount_of_cash_received
@@ -2510,12 +2504,12 @@ U përpoqa të tërhiqja 50 paund por më dhanë vetëm 30. Ku është pjesa tje
 "Unë vizitova ATM-në, por mora më pak para se sa kërkova. Pse?",wrong_amount_of_cash_received
 Nuk mund të merrja paratë që më duheshin.,wrong_amount_of_cash_received
 Me kë duhet të kontaktoj nëse shuma e tërheqjes sime nuk korrespondon me shumën që jam përpjekur të heq nga llogaria ime?,wrong_amount_of_cash_received
-"Bëra një tërheqje nga ATM, nuk më dha shumën që kërkova, por po tregon një tërheqje për atë shumë.",card_payment_fee_charged
-Kështu që thjesht shkova në ATM për të marrë ca para. Unë futa se më duheshin 100 paund por mora vetëm 80. Kam faturën dhe kam nevojë për para shtesë. Si mund të shkoj për të marrë shumën që mungon?,card_payment_fee_charged
-Shuma e parave që kam shtyrë në makinën atm nuk ka dalë nga makina.,card_payment_fee_charged
-"Mora më pak se sa kërkova në ATM, pse?",card_payment_fee_charged
-"Unë jam ngecur këtu në ATM-në tuaj të prishur dhe nuk di çfarë të bëj më pas. Më kërkuan 30 paund, mora 10. ATM-ja tha se mora 30. Diçka nuk është në rregull këtu dhe dua paratë e mia tani!",card_payment_fee_charged
-Makina më paguante vetëm njëqind kur doja 20,card_payment_fee_charged
+"Bëra një tërheqje nga ATM, nuk më dha shumën që kërkova, por po tregon një tërheqje për atë shumë.",wrong_amount_of_cash_received
+Kështu që thjesht shkova në ATM për të marrë ca para. Unë futa se më duheshin 100 paund por mora vetëm 80. Kam faturën dhe kam nevojë për para shtesë. Si mund të shkoj për të marrë shumën që mungon?,wrong_amount_of_cash_received
+Shuma e parave që kam shtyrë në makinën atm nuk ka dalë nga makina.,wrong_amount_of_cash_received
+"Mora më pak se sa kërkova në ATM, pse?",wrong_amount_of_cash_received
+"Unë jam ngecur këtu në ATM-në tuaj të prishur dhe nuk di çfarë të bëj më pas. Më kërkuan 30 paund, mora 10. ATM-ja tha se mora 30. Diçka nuk është në rregull këtu dhe dua paratë e mia tani!",wrong_amount_of_cash_received
+Makina më paguante vetëm njëqind kur doja 20,wrong_amount_of_cash_received
 U ngarkua një tarifë kur pagova me kartën time.,card_payment_fee_charged
 Kam marrë një tarifë që nuk duhet ta kisha.,card_payment_fee_charged
 Pse jam duke u tarifuar për përdorimin e kartës time?,card_payment_fee_charged
@@ -2697,12 +2691,12 @@ Pse jam duke u ngarkuar me një tarifë të fshehur?,card_payment_fee_charged
 Mund të shpjegoni pse u tarifova shtesë kur përdora kartën?,card_payment_fee_charged
 Pse më është ngarkuar një tarifë në kartën time?,card_payment_fee_charged
 Keni tarifa tani kur paguani me kartë?,card_payment_fee_charged
-Cila është tarifa shtesë që u shtua kur përdora kartën?,transfer_not_received_by_recipient
-Pse më ngarkohet një tarifë për përdorimin e kartës sime në disa blerje?,transfer_not_received_by_recipient
-"Pse jam duke u ngarkuar me një tarifë për përdorimin e kartës time? Nëse ka ndonjë printim nga vendet që më ngarkojnë, a mund të ma dërgoni atë?",transfer_not_received_by_recipient
-Si mund të them nëse do të ketë një tarifë të shtuar në pagesën time apo jo?,transfer_not_received_by_recipient
-"Nuk premtove asnjë tarifë, por tani unë kam një. Cfare dreqin!?",transfer_not_received_by_recipient
-Si mund ta di se cilat pagesa do të kenë tarifa shtesë? Ku mund ta gjej këtë informacion në internet?,transfer_not_received_by_recipient
+Cila është tarifa shtesë që u shtua kur përdora kartën?,card_payment_fee_charged
+Pse më ngarkohet një tarifë për përdorimin e kartës sime në disa blerje?,card_payment_fee_charged
+"Pse jam duke u ngarkuar me një tarifë për përdorimin e kartës time? Nëse ka ndonjë printim nga vendet që më ngarkojnë, a mund të ma dërgoni atë?",card_payment_fee_charged
+Si mund të them nëse do të ketë një tarifë të shtuar në pagesën time apo jo?,card_payment_fee_charged
+"Nuk premtove asnjë tarifë, por tani unë kam një. Cfare dreqin!?",card_payment_fee_charged
+Si mund ta di se cilat pagesa do të kenë tarifa shtesë? Ku mund ta gjej këtë informacion në internet?,card_payment_fee_charged
 Unë jam i shqetësuar se ka kaluar shumë kohë për të përfunduar një transferim.,transfer_not_received_by_recipient
 "Cili është afati kohor që zakonisht duhet për të realizuar një transferim? Unë kam një mik që ka nevojë për të menjëherë, por ende nuk është arritur.",transfer_not_received_by_recipient
 Transaksioni im i parave nuk mund të shihet nga personi të cilit i kam dërguar,transfer_not_received_by_recipient
@@ -2868,12 +2862,12 @@ Pse shoku im nuk po merr ende një mbërritje transaksioni?,transfer_not_receive
 Sa kohë do të marrë një transaksion me një mik?,transfer_not_received_by_recipient
 "Pse nuk ka kaluar ende transferimi im brenda vendit? Konfirmova informacionin e llogarisë disa ditë më parë, por pagesa nuk është postuar ende.",transfer_not_received_by_recipient
 "Kam përfunduar një transferim brenda Britanisë së Madhe dy ditë më parë, por ende nuk është marrë. Unë kam verifikuar që numri i llogarisë është i saktë tashmë. A ka ndonjë gjë tjetër që duhet të bëj apo ka ndonjë problem?",transfer_not_received_by_recipient
-Si mund ta shoh personi transaksionin tim të parave?,supported_cards_and_currencies
-I dërgova një transfertë një shoku që ka nevojë urgjente. Kanë kaluar tashmë 2 orë dhe ende nuk ka ardhur tek ajo. Sa kohë zgjat normalisht?,supported_cards_and_currencies
-paratë që transferova nuk erdhën,supported_cards_and_currencies
-Pse transferimi im po zgjat kaq shumë. Mendova se duhej të merrte vetëm 1 ditë nëse bëja një transferim te dikush. A mund të kuptoni se çfarë shkoi keq?,supported_cards_and_currencies
-"I dërgova disa para dikujt disa orë më parë, dhe ata ende nuk i kanë marrë ato. Ata me të vërtetë kanë nevojë për para, sa do t'u duhet të presin?",supported_cards_and_currencies
-Sa kohë zgjasin transferimet? I dërgova para një shoku që ka nevojë urgjente. Kanë kaluar orë dhe nuk kanë kaluar.,supported_cards_and_currencies
+Si mund ta shoh personi transaksionin tim të parave?,transfer_not_received_by_recipient
+I dërgova një transfertë një shoku që ka nevojë urgjente. Kanë kaluar tashmë 2 orë dhe ende nuk ka ardhur tek ajo. Sa kohë zgjat normalisht?,transfer_not_received_by_recipient
+paratë që transferova nuk erdhën,transfer_not_received_by_recipient
+Pse transferimi im po zgjat kaq shumë. Mendova se duhej të merrte vetëm 1 ditë nëse bëja një transferim te dikush. A mund të kuptoni se çfarë shkoi keq?,transfer_not_received_by_recipient
+"I dërgova disa para dikujt disa orë më parë, dhe ata ende nuk i kanë marrë ato. Ata me të vërtetë kanë nevojë për para, sa do t'u duhet të presin?",transfer_not_received_by_recipient
+Sa kohë zgjasin transferimet? I dërgova para një shoku që ka nevojë urgjente. Kanë kaluar orë dhe nuk kanë kaluar.,transfer_not_received_by_recipient
 Si të përdor American Express për të plotësuar llogarinë time?,supported_cards_and_currencies
 Cilat monedha pranoni për të shtuar para?,supported_cards_and_currencies
 A mbështetet karta ime e kreditit për rimbushje?,supported_cards_and_currencies
@@ -2997,12 +2991,12 @@ Cilat monedha mund të përdoren për rimbushje?,supported_cards_and_currencies
 "A duhet të plotësoj euro nëse përdor një kartë, apo mund të përdor një monedhë tjetër?",supported_cards_and_currencies
 Cilat karta mbështetni,supported_cards_and_currencies
 Cilat janë monedhat që pranohen për të shtuar para?,supported_cards_and_currencies
-Çfarë lloj kartash një monedhë mbështetni?,getting_virtual_card
-Cilat karta mbështetni për mbushje?,getting_virtual_card
-"Mbushni kartën time ju lutem, të cilën do ta mbështesni?",getting_virtual_card
-A pranoni kartat e kreditit të SHBA?,getting_virtual_card
-Më duhet të di nëse do ta pranosh kartën time të kreditit.,getting_virtual_card
-Unë dua të shtoj fonde në llogarinë time. Cilat mënyra pagese pranohen?,getting_virtual_card
+Çfarë lloj kartash një monedhë mbështetni?,supported_cards_and_currencies
+Cilat karta mbështetni për mbushje?,supported_cards_and_currencies
+"Mbushni kartën time ju lutem, të cilën do ta mbështesni?",supported_cards_and_currencies
+A pranoni kartat e kreditit të SHBA?,supported_cards_and_currencies
+Më duhet të di nëse do ta pranosh kartën time të kreditit.,supported_cards_and_currencies
+Unë dua të shtoj fonde në llogarinë time. Cilat mënyra pagese pranohen?,supported_cards_and_currencies
 "Do të doja të porosisja një kartë virtuale, ku mund ta marr një të tillë?",getting_virtual_card
 "Më duhet të porosis një kartë të re virtuale, si ta bëj këtë?",getting_virtual_card
 Si mund të regjistrohem për një kartë virtuale?,getting_virtual_card
@@ -3095,12 +3089,12 @@ Do të doja një kartë virtuale...si ta marr një të tillë?,getting_virtual_c
 shpjegoni kartën virtuale,getting_virtual_card
 Do të doja të di se ku mund të porosis një kartë virtuale?,getting_virtual_card
 çfarë është një virtual dhe si ta marr një të tillë,getting_virtual_card
-pse nuk ka ardhur akoma karta ime virtuale?,card_acceptance
-A ka ndonjë mënyrë për të porositur një kartë virtuale në faqen e internetit?,card_acceptance
-A ka ndonjë alternativë për një kartë fizike?,card_acceptance
-Ju lutem më tregoni se si mund të marr një kartë virtuale.,card_acceptance
-"Nuk e kam marrë ende kartën time virtuale, pse?",card_acceptance
-Ku mund të gjej një kartë virtuale?,card_acceptance
+pse nuk ka ardhur akoma karta ime virtuale?,getting_virtual_card
+A ka ndonjë mënyrë për të porositur një kartë virtuale në faqen e internetit?,getting_virtual_card
+A ka ndonjë alternativë për një kartë fizike?,getting_virtual_card
+Ju lutem më tregoni se si mund të marr një kartë virtuale.,getting_virtual_card
+"Nuk e kam marrë ende kartën time virtuale, pse?",getting_virtual_card
+Ku mund të gjej një kartë virtuale?,getting_virtual_card
 A ka diku ku nuk mund ta përdor kartën time?,card_acceptance
 Në cilat dyqane mund të blej me këtë kartë?,card_acceptance
 Si mund ta di se ku mund ta përdor kartën time?,card_acceptance
@@ -3121,7 +3115,6 @@ Kush e pranon kartën?,card_acceptance
 E pranon kartën time?,card_acceptance
 A pranohet kartela ime diku?,card_acceptance
 A është refuzuar diku kartela ime?,card_acceptance
-,card_acceptance
 Ku mund ta përdor kartën time?,card_acceptance
 Ku mund ta përdor Mastercard-in tim?,card_acceptance
 ku pranohet karta,card_acceptance
@@ -3154,13 +3147,13 @@ A do të funksionojë karta ime në të gjitha vendndodhjet e tregtarëve?,card_
 Si mund ta di se ku do të pranohet karta ime?,card_acceptance
 A mund të paguaj kudo me kartën time?,card_acceptance
 A mund ta përdor kartën time kudo?,card_acceptance
-Ku mund ta përdor këtë kartë?,top_up_reverted
-Me cilat biznese mund ta përdor këtë kartë?,top_up_reverted
-A e marrin të gjitha bizneset këtë kartë?,top_up_reverted
-Ku pranohet kjo kartë?,top_up_reverted
-Cilat biznese e pranojnë kartën time?,top_up_reverted
-A mund ta përdor këtë kartë në çdo dyqan?,top_up_reverted
-A ka ndonjë kufizim se ku e përdor këtë kartë?,top_up_reverted
+Ku mund ta përdor këtë kartë?,card_acceptance
+Me cilat biznese mund ta përdor këtë kartë?,card_acceptance
+A e marrin të gjitha bizneset këtë kartë?,card_acceptance
+Ku pranohet kjo kartë?,card_acceptance
+Cilat biznese e pranojnë kartën time?,card_acceptance
+A mund ta përdor këtë kartë në çdo dyqan?,card_acceptance
+A ka ndonjë kufizim se ku e përdor këtë kartë?,card_acceptance
 "Rimbushja ime nuk u shfaq siç tregohet dhe paratë e mia janë zhdukur, a mund të më ndihmoni ta rregulloj këtë problem të defektit?",top_up_reverted
 A është anuluar rimbushja ime?,top_up_reverted
 "Kam mbushur kohët e fundit dhe pashë që paratë po kalonin, por tani sapo kanë ikur? Çfarë po ndodh",top_up_reverted
@@ -3300,13 +3293,13 @@ Paratë e mia janë zhdukur. Kohët e fundit kisha shtuar para dhe pashë se ish
 Kanë kaluar vetëm disa javë që rimbushja ime është anuluar,top_up_reverted
 "Përshëndetje, sapo mbusha telefonin tim dhe paratë u zbritën, por duket se i është zbritur përsëri e njëjta shumë! ju lutem ndihmë!",top_up_reverted
 Shpjegoni anulimin e rimbushjes,top_up_reverted
-Pse mbushja ime u tërhoq përsëri?,balance_not_updated_after_cheque_or_cash_deposit
-Pse më është kthyer mbushja?,balance_not_updated_after_cheque_or_cash_deposit
-"Përshëndetje, kam rimbushur rimbushjen, por llogaria nuk është kredituar. Ju lutem më ndihmoni në këtë, mendoj se ka ndonjë defekt në sistem.",balance_not_updated_after_cheque_or_cash_deposit
-Rimbushja u kthye,balance_not_updated_after_cheque_or_cash_deposit
-"Hae, unë kam përfunduar tashmë vërtetimin tim të sigurt 3D kur provova mbushjen e kriptos, por ende nuk po funksionon për mua. Unë gjithashtu nuk e kuptoj se çfarë ndodhi me paratë në llogarinë time",balance_not_updated_after_cheque_or_cash_deposit
-Mund të më thoni pse u anulua rimbushja?,balance_not_updated_after_cheque_or_cash_deposit
-Pse rimbushja ime nuk u miratua këtë herë?,balance_not_updated_after_cheque_or_cash_deposit
+Pse mbushja ime u tërhoq përsëri?,top_up_reverted
+Pse më është kthyer mbushja?,top_up_reverted
+"Përshëndetje, kam rimbushur rimbushjen, por llogaria nuk është kredituar. Ju lutem më ndihmoni në këtë, mendoj se ka ndonjë defekt në sistem.",top_up_reverted
+Rimbushja u kthye,top_up_reverted
+"Hae, unë kam përfunduar tashmë vërtetimin tim të sigurt 3D kur provova mbushjen e kriptos, por ende nuk po funksionon për mua. Unë gjithashtu nuk e kuptoj se çfarë ndodhi me paratë në llogarinë time",top_up_reverted
+Mund të më thoni pse u anulua rimbushja?,top_up_reverted
+Pse rimbushja ime nuk u miratua këtë herë?,top_up_reverted
 Pse po zgjat kaq shumë depozita ime e fundit e çekut?,balance_not_updated_after_cheque_or_cash_deposit
 Unë jam ende duke pritur për një para të gatshme që depozitova këtë mëngjes,balance_not_updated_after_cheque_or_cash_deposit
 "Provova të përdor një çek për të përditësuar bilancin tim, por nuk po funksionon? Ka dicka qe nuk shkon?",balance_not_updated_after_cheque_or_cash_deposit
@@ -3481,13 +3474,13 @@ Pse nuk është përditësuar bilanci im? Kam depozituar disa çeqe disa ditë m
 pse nuk më kanë ardhur ende paratë nga çeku?!,balance_not_updated_after_cheque_or_cash_deposit
 "Kam bërë një depozitë çeku, por paratë nuk kanë ardhur ende në llogarinë time.",balance_not_updated_after_cheque_or_cash_deposit
 Gjendja nuk ka ndryshuar ende pas depozitimit të një çeku me disa para.,balance_not_updated_after_cheque_or_cash_deposit
-Çfarë ndodhi me depozitën time në para?,card_payment_not_recognised
-"Ju lutem, më tregoni pse nuk mund të kem fondet që kam depozituar një javë më parë? Më duhen paratë tani.",card_payment_not_recognised
-"Pas depozitimit të çekut ose parave të gatshme, gjendja ime nuk u përditësua.",card_payment_not_recognised
-Kur do të pasqyrojë bilanci im një depozitë?,card_payment_not_recognised
-"Kam bërë një depozitë në para në llogarinë time, por nuk është aty",card_payment_not_recognised
-Kam depozituar një çek dhe kanë kaluar disa ditë dhe ende nuk i kam marrë paratë!!,card_payment_not_recognised
-"Kam depozituar disa para, por gjendja nuk ka ndryshuar.",card_payment_not_recognised
+Çfarë ndodhi me depozitën time në para?,balance_not_updated_after_cheque_or_cash_deposit
+"Ju lutem, më tregoni pse nuk mund të kem fondet që kam depozituar një javë më parë? Më duhen paratë tani.",balance_not_updated_after_cheque_or_cash_deposit
+"Pas depozitimit të çekut ose parave të gatshme, gjendja ime nuk u përditësua.",balance_not_updated_after_cheque_or_cash_deposit
+Kur do të pasqyrojë bilanci im një depozitë?,balance_not_updated_after_cheque_or_cash_deposit
+"Kam bërë një depozitë në para në llogarinë time, por nuk është aty",balance_not_updated_after_cheque_or_cash_deposit
+Kam depozituar një çek dhe kanë kaluar disa ditë dhe ende nuk i kam marrë paratë!!,balance_not_updated_after_cheque_or_cash_deposit
+"Kam depozituar disa para, por gjendja nuk ka ndryshuar.",balance_not_updated_after_cheque_or_cash_deposit
 Ka një pagesë me kartën time që nuk e kam kryer. Nuk e di emrin e treguar.,card_payment_not_recognised
 Deklarata ime tregon se kam bërë një pagesë për një tregtar të panjohur.,card_payment_not_recognised
 "Ka një pagesë me kartën time që nuk e kam bërë vetë, nuk e kam parë kurrë atë emër më parë.",card_payment_not_recognised
@@ -3649,13 +3642,13 @@ Nuk kam bërë një pagesë që shfaqet në aplikacionin tim.,card_payment_not_r
 Çfarë duhet të bëj nëse shoh një transaksion në kartën time që nuk mbaj mend ta bëja?,card_payment_not_recognised
 Ka një pagesë në aplikacion që nuk e kam autorizuar.,card_payment_not_recognised
 Unë kam një pagesë që nuk e kam bërë.,card_payment_not_recognised
-në deklaratën time ka një pagesë që nuk e njoh,edit_personal_details
-Më duhet të anuloj kartën time. Ka disa akuza të disa ditëve më parë që nuk i kam bërë. A mund të marr kredi për këto tarifa?,edit_personal_details
-Është e shënuar në aplikacionin tim që kam bërë një pagesë që në fakt nuk e kam bërë,edit_personal_details
-Unë nuk njoh një tarifë në kartën time,edit_personal_details
-"Ka disa pagesa me kartën time të treguara në aplikacion, të cilat nuk i kam bërë vetë. Pse ka ndodhur?",edit_personal_details
-Një pagesë që nuk e kam bërë shfaqet në aplikacionin tim.,edit_personal_details
-Ka një pagesë me kartë që nuk po e njoh.,edit_personal_details
+në deklaratën time ka një pagesë që nuk e njoh,card_payment_not_recognised
+Më duhet të anuloj kartën time. Ka disa akuza të disa ditëve më parë që nuk i kam bërë. A mund të marr kredi për këto tarifa?,card_payment_not_recognised
+Është e shënuar në aplikacionin tim që kam bërë një pagesë që në fakt nuk e kam bërë,card_payment_not_recognised
+Unë nuk njoh një tarifë në kartën time,card_payment_not_recognised
+"Ka disa pagesa me kartën time të treguara në aplikacion, të cilat nuk i kam bërë vetë. Pse ka ndodhur?",card_payment_not_recognised
+Një pagesë që nuk e kam bërë shfaqet në aplikacionin tim.,card_payment_not_recognised
+Ka një pagesë me kartë që nuk po e njoh.,card_payment_not_recognised
 Jam i interesuar të ndryshoj të dhënat e mia personale.,edit_personal_details
 Unë jam këtu për të ndryshuar adresën time.,edit_personal_details
 Do të doja të bëja disa ndryshime në të dhënat e mia personale.,edit_personal_details
@@ -3770,13 +3763,13 @@ Më duhet të ndryshoj të dhënat e mia.,edit_personal_details
 Çfarë duhet të bëj pasi jam zhvendosur dhe kam nevojë të përditësoj të dhënat e mia personale?,edit_personal_details
 Redaktimi i të dhënave të mia personale,edit_personal_details
 Ku mund të modifikoj të dhënat personale?,edit_personal_details
-Si mund të ndryshoj detajet e llogarisë sime?,why_verify_identity
-Ku të shkoj për të përditësuar detajet?,why_verify_identity
-Më duhet të ndryshoj adresën time,why_verify_identity
-Ku mund ta modifikoj informacionin tim?,why_verify_identity
-Si mund ta ndryshoj mbiemrin tim?,why_verify_identity
-Unë kam një email të ri.,why_verify_identity
-Si mund t'i përditësoj të dhënat e mia që kur jam zhvendosur?,why_verify_identity
+Si mund të ndryshoj detajet e llogarisë sime?,edit_personal_details
+Ku të shkoj për të përditësuar detajet?,edit_personal_details
+Më duhet të ndryshoj adresën time,edit_personal_details
+Ku mund ta modifikoj informacionin tim?,edit_personal_details
+Si mund ta ndryshoj mbiemrin tim?,edit_personal_details
+Unë kam një email të ri.,edit_personal_details
+Si mund t'i përditësoj të dhënat e mia që kur jam zhvendosur?,edit_personal_details
 Pse keni një kontroll identiteti?,why_verify_identity
 Nuk ndihem rehat të verifikoj identitetin tim.,why_verify_identity
 Pse në tokë të duhen kaq shumë informacione personale nga unë?,why_verify_identity
@@ -3891,13 +3884,13 @@ Pse nevojitet verifikimi për identitetin tim?,why_verify_identity
 Nuk po verifikoj identitetin tim.,why_verify_identity
 Keni nevojë për datëlindjen time?,why_verify_identity
 Pse është e rëndësishme të verifikoj identitetin tim?,why_verify_identity
-më duhet t'ju vërtetoj identitetin tim pse dhe si?,unable_to_verify_identity
-A është i rëndësishëm verifikimi i identitetit tim?,unable_to_verify_identity
-pse dhe sa shpejt duhet të të kem vërtetimin e identitetit?,unable_to_verify_identity
-Pse të duhen të gjitha këto detaje për identitetin tim?,unable_to_verify_identity
-Çfarë është kontrolli i identitetit?,unable_to_verify_identity
-A mund të bëj transaksione përpara verifikimit të identitetit?,unable_to_verify_identity
-Kam frikë t'ju jap të gjitha të dhënat e mia të identifikimit.,unable_to_verify_identity
+më duhet t'ju vërtetoj identitetin tim pse dhe si?,why_verify_identity
+A është i rëndësishëm verifikimi i identitetit tim?,why_verify_identity
+pse dhe sa shpejt duhet të të kem vërtetimin e identitetit?,why_verify_identity
+Pse të duhen të gjitha këto detaje për identitetin tim?,why_verify_identity
+Çfarë është kontrolli i identitetit?,why_verify_identity
+A mund të bëj transaksione përpara verifikimit të identitetit?,why_verify_identity
+Kam frikë t'ju jap të gjitha të dhënat e mia të identifikimit.,why_verify_identity
 A mund të më ndihmoni për të vërtetuar identitetin tim?,unable_to_verify_identity
 Çfarë prove ju nevojitet për identifikimin tim?,unable_to_verify_identity
 A ka ndonjë arsye që identiteti im nuk do të pranohej edhe pse gjithçka që kam dhënë është faktike?,unable_to_verify_identity
@@ -3993,13 +3986,13 @@ pse kërkon kaq shumë kohë për të verifikuar ID-në time,unable_to_verify_id
 Verifikimi im i identitetit nuk funksionon,unable_to_verify_identity
 Unë kam vështirësi për të verifikuar identitetin tim,unable_to_verify_identity
 Sa herë që përpiqem të provoj identitetin tim nuk më lejon.,unable_to_verify_identity
-Unë kam vështirësi në verifikimin e identitetit tim.,get_physical_card
-Më ndihmo të verifikoj identitetin tim.,get_physical_card
-Unë jam ende në pritje të verifikimit të identitetit tim.,get_physical_card
-Pse nuk mund të verifikohet ID-ja ime?,get_physical_card
-Më ndihmo të provoj identitetin tim.,get_physical_card
-Unë jam nën 18 vjeç dhe po përpiqem të verifikoj ID-në time. pse nuk funksionon?,get_physical_card
-Çfarë duhet të sjell për identifikim?,get_physical_card
+Unë kam vështirësi në verifikimin e identitetit tim.,unable_to_verify_identity
+Më ndihmo të verifikoj identitetin tim.,unable_to_verify_identity
+Unë jam ende në pritje të verifikimit të identitetit tim.,unable_to_verify_identity
+Pse nuk mund të verifikohet ID-ja ime?,unable_to_verify_identity
+Më ndihmo të provoj identitetin tim.,unable_to_verify_identity
+Unë jam nën 18 vjeç dhe po përpiqem të verifikoj ID-në time. pse nuk funksionon?,unable_to_verify_identity
+Çfarë duhet të sjell për identifikim?,unable_to_verify_identity
 "Nuk jam i sigurt se çfarë të bëj për PIN-in, sepse nuk e kam ende një të tillë.",get_physical_card
 A dërgohet PIN-i im veçmas?,get_physical_card
 Ku mund ta marr PIN-in e kartës time?,get_physical_card
@@ -4099,13 +4092,13 @@ A është PIN-i im i njëjtë me kodkalimin tim?,get_physical_card
 Unë kam qenë në pritje të shekujve dhe PIN-i im nuk ka arritur këtu.,get_physical_card
 Si mund të filloj kur marr kartën time?,get_physical_card
 Më trego ku mund ta shoh PIN-in?,get_physical_card
-Si mund ta gjej pinin tim të ri?,visa_or_mastercard
-a mund ta krijoj pinin tim menjëherë,visa_or_mastercard
-si të merrni pin kartën?,visa_or_mastercard
-Ku mund ta gjej PIN-in tim për kartën time të re?,visa_or_mastercard
-A mund ta dorëzoni PIN-in veçmas?,visa_or_mastercard
-a është pini im i njëjtë me kodkalimin tim,visa_or_mastercard
-si mund të marr një kunj për kartën time,visa_or_mastercard
+Si mund ta gjej pinin tim të ri?,get_physical_card
+a mund ta krijoj pinin tim menjëherë,get_physical_card
+si të merrni pin kartën?,get_physical_card
+Ku mund ta gjej PIN-in tim për kartën time të re?,get_physical_card
+A mund ta dorëzoni PIN-in veçmas?,get_physical_card
+a është pini im i njëjtë me kodkalimin tim,get_physical_card
+si mund të marr një kunj për kartën time,get_physical_card
 A ka ndonjë mënyrë që të kem një mastercard?,visa_or_mastercard
 eshte thjesht viza apo mund te perdor edhe mastercard?,visa_or_mastercard
 Unë nuk dua një kartë VISA.,visa_or_mastercard
@@ -4234,13 +4227,13 @@ Unë do të preferoja një Mastercard.,visa_or_mastercard
 Do të doja të merrja nga ju edhe kartën Mastercard edhe Visa nëse është e mundur.,visa_or_mastercard
 A do të marr një vizë apo Mastercard?,visa_or_mastercard
 A do të bëni Visa apo Mastercard?,visa_or_mastercard
-Përdorni vetëm Visa apo keni edhe Mastercard?,topping_up_by_card
-A mund të marr një kartë Visa?,topping_up_by_card
-Do të doja të dija nëse përdorni Visa ose Mastercard.,topping_up_by_card
-A është e pranueshme të përdorni Visa ose Mastercard?,topping_up_by_card
-"Ju lutem më tregoni, a përdorni Visa apo Mastercard?",topping_up_by_card
-A mund të zgjedh se çfarë karte mund të përdor?,topping_up_by_card
-A furnizoni si Visa ashtu edhe Mastercard?,topping_up_by_card
+Përdorni vetëm Visa apo keni edhe Mastercard?,visa_or_mastercard
+A mund të marr një kartë Visa?,visa_or_mastercard
+Do të doja të dija nëse përdorni Visa ose Mastercard.,visa_or_mastercard
+A është e pranueshme të përdorni Visa ose Mastercard?,visa_or_mastercard
+"Ju lutem më tregoni, a përdorni Visa apo Mastercard?",visa_or_mastercard
+A mund të zgjedh se çfarë karte mund të përdor?,visa_or_mastercard
+A furnizoni si Visa ashtu edhe Mastercard?,visa_or_mastercard
 Paratë e mia kishin ikur dhe nuk mund të merrja benzinë!,topping_up_by_card
 nuk mund ta shoh mbushjen time,topping_up_by_card
 Nuk mund ta shoh mbushjen time në portofolin tim!,topping_up_by_card
@@ -4337,13 +4330,13 @@ Kush mund të ketë akses për të plotësuar llogarinë time?,topping_up_by_car
 Unë kam një kartë të re. Si mund ta mbush atë?,topping_up_by_card
 A duhet të plotësoj kartën time të kreditit përpara se të mund të transferoj?,topping_up_by_card
 "Më duhet të plotësoj kartën time,",topping_up_by_card
-Çfarë hapash bëj për të transferuar para duke përdorur kartën time të kreditit?,disposable_card_limits
-"E mbusha llogarinë time, por paratë nuk janë aty tani.",disposable_card_limits
-Si mund ta përdor kartën time të kreditit për të transferuar para?,disposable_card_limits
-Si ta përdor kartën time për të rimbushur?,disposable_card_limits
-"Më duhet të transferoj disa para, a mund të përdor kartën time të kreditit?",disposable_card_limits
-Pse 'mbushja' ime nuk shfaqet në portofolin tim?,disposable_card_limits
-A mund të plotësojnë të tjerët llogarinë time?,disposable_card_limits
+Çfarë hapash bëj për të transferuar para duke përdorur kartën time të kreditit?,topping_up_by_card
+"E mbusha llogarinë time, por paratë nuk janë aty tani.",topping_up_by_card
+Si mund ta përdor kartën time të kreditit për të transferuar para?,topping_up_by_card
+Si ta përdor kartën time për të rimbushur?,topping_up_by_card
+"Më duhet të transferoj disa para, a mund të përdor kartën time të kreditit?",topping_up_by_card
+Pse 'mbushja' ime nuk shfaqet në portofolin tim?,topping_up_by_card
+A mund të plotësojnë të tjerët llogarinë time?,topping_up_by_card
 A kanë kartat e disponueshme ndonjë kufizim për to?,disposable_card_limits
 Sa herë mund të përdor një kartë virtuale?,disposable_card_limits
 Një shoqe po më tregonte për kartat e saj të disponueshme. Çfarë duhet të bëj për të qenë në gjendje ta marr atë veçori?,disposable_card_limits
@@ -4458,13 +4451,13 @@ Cilat janë kufijtë e mi për kartat e disponueshme?,disposable_card_limits
 Do të doja të dija se cilat janë kufizimet për kartat e disponueshme.,disposable_card_limits
 Cili është kufizimi në numrin e kartave të disponueshme që mund të kem?,disposable_card_limits
 sa është sasia e kartave të disponueshme që mund të kem?,disposable_card_limits
-"Në kartën time të disponueshme, a ka një kufi transaksioni?",compromised_card
-Kush mund të kërkojë karta të disponueshme?,compromised_card
-Sa transaksione marr me një kartë të disponueshme?,compromised_card
-Çfarë mund të bëj dhe çfarë nuk mund të bëj me kartat e disponueshme?,compromised_card
-A ka një kufi transaksioni në një kartë të disponueshme?,compromised_card
-Sa karta të disponueshme janë të disponueshme për llogari?,compromised_card
-Sa është numri i transaksioneve për një kartë të disponueshme?,compromised_card
+"Në kartën time të disponueshme, a ka një kufi transaksioni?",disposable_card_limits
+Kush mund të kërkojë karta të disponueshme?,disposable_card_limits
+Sa transaksione marr me një kartë të disponueshme?,disposable_card_limits
+Çfarë mund të bëj dhe çfarë nuk mund të bëj me kartat e disponueshme?,disposable_card_limits
+A ka një kufi transaksioni në një kartë të disponueshme?,disposable_card_limits
+Sa karta të disponueshme janë të disponueshme për llogari?,disposable_card_limits
+Sa është numri i transaksioneve për një kartë të disponueshme?,disposable_card_limits
 Unë mendoj se dikush po përdor kartën time pa lejen time!,compromised_card
 Çfarë duhet të bëj nëse zbuloj përdorim mashtrues në makinën time?,compromised_card
 Mendoj se llogaria ime është hakuar dhe ka tarifa që nuk i njoh.,compromised_card
@@ -4483,7 +4476,6 @@ Dyshoj se dikush ka përdorur kartën time.,compromised_card
 Ju lutem më tregoni se si mund të ndaloni kryerjen e pagesave të paautorizuara në kartën time pasi në këtë faturë shoh që kjo ka ndodhur. Ka transaksione që nuk i kam bërë kurrë nga një vend ku nuk kam qenë kurrë.,compromised_card
 Unë mendoj se dikush po përdor kartën time pa autorizimin tim!,compromised_card
 "Janë disa transaksione që nuk i njoh, mendoj se dikush ka arritur të marrë të dhënat e kartës time dhe ta përdorë atë.",compromised_card
-,compromised_card
 Dikush ka përdorur kartën time. Ka transaksione të panjohura atje. A mund ta ngrini kartën për të parandaluar që kjo të ndodhë?,compromised_card
 Çfarë mund të bëj nëse të dhënat e kartës sime janë vjedhur nga makina ime? Mendoj se kanë përdorur kartën time për të blerë gaz.,compromised_card
 Unë dua të anuloj kartën time. Unë mendoj se dikush tjetër po e përdor atë.,compromised_card
@@ -4544,14 +4536,14 @@ Si mund të porosis një zëvendësim për kartën e vjedhur?,compromised_card
 Dikush e përdori kartën time pa dijeninë time!,compromised_card
 Unë mendoj se karta ime është komprometuar në një farë mënyre.,compromised_card
 Çfarë duhet të bëj nëse mendoj se dikush mund të jetë duke përdorur kartën time?,compromised_card
-"Mund të jem paranojak, por dikush mund të jetë duke përdorur kartën time.",atm_support
-Më vodhën portofolin dhe të gjitha kartat e mia të kreditit ishin aty. NDIHMË?!!?,atm_support
-Ka akuza mashtruese që nuk i kam bërë në kartën time. A mund të vendosni masat mbrojtëse të nevojshme për të ndaluar që kjo të ndodhë më?,atm_support
-Karta ka pësuar një shkelje sigurie.,atm_support
-Të dhënat e kartës sime janë ekspozuar.,atm_support
-"Ka transaksione që nuk i kam bërë në llogarinë time, mendoj se dikush ka informacionin tim.",atm_support
-Unë mendoj se dikush mund të jetë duke përdorur kartën time.,atm_support
-Unë nuk i kam bërë këto transaksione. A e përdor dikush tjetër kartën time?,atm_support
+"Mund të jem paranojak, por dikush mund të jetë duke përdorur kartën time.",compromised_card
+Më vodhën portofolin dhe të gjitha kartat e mia të kreditit ishin aty. NDIHMË?!!?,compromised_card
+Ka akuza mashtruese që nuk i kam bërë në kartën time. A mund të vendosni masat mbrojtëse të nevojshme për të ndaluar që kjo të ndodhë më?,compromised_card
+Karta ka pësuar një shkelje sigurie.,compromised_card
+Të dhënat e kartës sime janë ekspozuar.,compromised_card
+"Ka transaksione që nuk i kam bërë në llogarinë time, mendoj se dikush ka informacionin tim.",compromised_card
+Unë mendoj se dikush mund të jetë duke përdorur kartën time.,compromised_card
+Unë nuk i kam bërë këto transaksione. A e përdor dikush tjetër kartën time?,compromised_card
 Në cilat ATM mund ta përdor këtë kartë?,atm_support
 A mund ta përdor kartën në çdo makinë parash?,atm_support
 Nga cilat vende mund të marr para?,atm_support
@@ -4583,7 +4575,6 @@ A ka ndonjë mënyrë për të gjetur një ATM rreth meje?,atm_support
 A do ta refuzojë ndonjë ATM kartën time?,atm_support
 Çfarë ATM mund të përdor kartën time?,atm_support
 Cilat stacione parash e marrin këtë kartë?,atm_support
-,atm_support
 Në cilat ATM mund ta përdor këtë kartë?,atm_support
 Ju lutem më jepni një listë të ATM-ve që pranojnë kartën time.,atm_support
 A mund ta përdor kartën time në një ATM?,atm_support
@@ -4602,8 +4593,6 @@ Më duhet të tërheq para. Ku mund ta bëj këtë?,atm_support
 A mund ta përdor kartën time në ATM të një institucioni tjetër?,atm_support
 Ku është një ATM që pranon Mastercard?,atm_support
 Ku janë ATM-të e Mastercard?,atm_support
-Nga mund të tërheq para?,atm_support
-,atm_support
 Nga mund të tërheq para?,atm_support
 A mund të përdor një ATM bankare të ndryshme nga e imja?,atm_support
 duhet të di se ku mund të tërheq para,atm_support
@@ -4631,17 +4620,17 @@ Më tregoni se cilat ATM përdorin këtë kartë.,atm_support
 Cilat ATM marrin kartën?,atm_support
 Sa larg është ATM-ja më e afërt nga unë?,atm_support
 A mund të më thoni ATM-të që mund të përdor me kartën time?,atm_support
-Ku është një ATM Mastercard?,direct_debit_payment_not_recognised
-Më duhet të di se ku mund të tërheq para.,direct_debit_payment_not_recognised
-A ka ATM specifike që mund të përdor me këtë kartë?,direct_debit_payment_not_recognised
-Ku mund të gjej një ATM?,direct_debit_payment_not_recognised
-Si mund të them nëse një AMT do ta marrë këtë kartë?,direct_debit_payment_not_recognised
-Si mund ta di që është një ATM Mastercard?,direct_debit_payment_not_recognised
-"ATM, cilat do ta pranojnë këtë kartë?",direct_debit_payment_not_recognised
-Cilat vende ATM janë afër meje?,direct_debit_payment_not_recognised
-Çfarë ATM pranon Mastercard?,direct_debit_payment_not_recognised
-A mund të tërhiqem nga ndonjë ATM?,direct_debit_payment_not_recognised
-"Përshëndetje, gjeta një pagesë të madhe në deklaratat e mia të vjetra, e cila jam i sigurt se nuk është bërë nga unë. Jam i vetëdijshëm që ka kaluar koha, por a ka ndonjë mënyrë për të ngritur një mosmarrëveshje për këtë pagesë tani?",direct_debit_payment_not_recognised
+Ku është një ATM Mastercard?,atm_support
+Më duhet të di se ku mund të tërheq para.,atm_support
+A ka ATM specifike që mund të përdor me këtë kartë?,atm_support
+Ku mund të gjej një ATM?,atm_support
+Si mund të them nëse një AMT do ta marrë këtë kartë?,atm_support
+Si mund ta di që është një ATM Mastercard?,atm_support
+"ATM, cilat do ta pranojnë këtë kartë?",atm_support
+Cilat vende ATM janë afër meje?,atm_support
+Çfarë ATM pranon Mastercard?,atm_support
+A mund të tërhiqem nga ndonjë ATM?,atm_support
+"Përshëndetje, gjeta një pagesë të madhe në deklaratat e mia të vjetra, e cila jam i sigurt se nuk është bërë nga unë. Jam i vetëdijshëm që ka kaluar koha, por a ka ndonjë mënyrë për të ngritur një mosmarrëveshje për këtë pagesë tani?",atm_support
 cila është fjala?,direct_debit_payment_not_recognised
 Ju lutemi më ndihmoni të zbuloj pse ka një debitim direkt të rastësishëm në të dhënat e mia.,direct_debit_payment_not_recognised
 Unë po shoh në aplikacion një debitim direkt që nuk është i imi,direct_debit_payment_not_recognised
@@ -4813,17 +4802,17 @@ Llogaritë e mia janë ngarkuar me një pagesë për diçka që nuk e kam bërë
 "Duke parë transaksionet e mia të disa muajve më parë, kam vënë re një tarifë mjaft të madhe që jam i sigurt se nuk është kryer nga unë. E di që ka kaluar një kohë, por a mund ta kundërshtoj këtë tarifë?",direct_debit_payment_not_recognised
 Unë shoh një tarifë të debitimit direkt që nuk e miratova,direct_debit_payment_not_recognised
 Aplikacioni tregon pagesat me Debitim Direkt që nuk i kam bërë,direct_debit_payment_not_recognised
-Unë kam një pagesë të panjohur të debitit direkt në llogarinë time,passcode_forgotten
-"Ka një debitim direkt që nuk e kam konfiguruar, çfarë duhet të bëj?",passcode_forgotten
-Unë shoh një debitim direkt që nuk e kam autorizuar,passcode_forgotten
-"E di shumë vonë këtë, por sapo kalova deklaratat e mia nga dy muajt e fundit dhe ka një pagesë mjaft të madhe që definitivisht nuk e kam bërë. A është ende e mundur të kontestohet?",passcode_forgotten
-Kontrollova llogarinë time dhe pashë që fondet i ishin zbritur një shitësi që nuk e aprovoja. Mund të më ndihmoni të kuptoj?,passcode_forgotten
-Në aplikacionin tim shfaqet një transaksion që nuk e kam bërë pasi nuk e kam përdorur atë kartë gjatë gjithë ditës. Ju lutem rimbursoni këtë shumë në llogarinë time.,passcode_forgotten
-Aplikacioni im tregon një debitim direkt që nuk është i imi.,passcode_forgotten
-"Nuk e kam përdorur kartën time gjatë gjithë ditës, por ka një pagesë që shfaqet në aplikacion. Ju lutem anuloni!",passcode_forgotten
-"Në aplikacionin tim shfaqet një pagesë që nuk e kam bërë. Ju lutem, a do ta anuloni këtë pagesë dhe do t'i ktheni paratë e mia?",passcode_forgotten
-Pse ka një debitim direkt në llogarinë time? Unë nuk e bëra atë.,passcode_forgotten
-Me ndihmo! Nuk e di cili është fjalëkalimi im.,passcode_forgotten
+Unë kam një pagesë të panjohur të debitit direkt në llogarinë time,direct_debit_payment_not_recognised
+"Ka një debitim direkt që nuk e kam konfiguruar, çfarë duhet të bëj?",direct_debit_payment_not_recognised
+Unë shoh një debitim direkt që nuk e kam autorizuar,direct_debit_payment_not_recognised
+"E di shumë vonë këtë, por sapo kalova deklaratat e mia nga dy muajt e fundit dhe ka një pagesë mjaft të madhe që definitivisht nuk e kam bërë. A është ende e mundur të kontestohet?",direct_debit_payment_not_recognised
+Kontrollova llogarinë time dhe pashë që fondet i ishin zbritur një shitësi që nuk e aprovoja. Mund të më ndihmoni të kuptoj?,direct_debit_payment_not_recognised
+Në aplikacionin tim shfaqet një transaksion që nuk e kam bërë pasi nuk e kam përdorur atë kartë gjatë gjithë ditës. Ju lutem rimbursoni këtë shumë në llogarinë time.,direct_debit_payment_not_recognised
+Aplikacioni im tregon një debitim direkt që nuk është i imi.,direct_debit_payment_not_recognised
+"Nuk e kam përdorur kartën time gjatë gjithë ditës, por ka një pagesë që shfaqet në aplikacion. Ju lutem anuloni!",direct_debit_payment_not_recognised
+"Në aplikacionin tim shfaqet një pagesë që nuk e kam bërë. Ju lutem, a do ta anuloni këtë pagesë dhe do t'i ktheni paratë e mia?",direct_debit_payment_not_recognised
+Pse ka një debitim direkt në llogarinë time? Unë nuk e bëra atë.,direct_debit_payment_not_recognised
+Me ndihmo! Nuk e di cili është fjalëkalimi im.,direct_debit_payment_not_recognised
 "Mendova se e dija fjalëkalimin tim, por mendoj se e kisha gabim, çfarë mund të bëj tani?",passcode_forgotten
 Nuk jam në gjendje të hyj në aplikacionin tim për shkak të harrimit të kodit tim.,passcode_forgotten
 Nuk e mbaj mend fjalëkalimin tim.,passcode_forgotten
@@ -4918,17 +4907,17 @@ Si mund ta marr rivendosjen e kodkalimit?,passcode_forgotten
 Nuk e kam kodkalimin tim për të hyrë në aplikacion.,passcode_forgotten
 A mund ta rivendos kodkalimin?,passcode_forgotten
 A ka udhëzime për të marrë një fjalëkalim të ri nëse kam harruar timin?,passcode_forgotten
-Më duhet të rivendos kodkalimin.,declined_cash_withdrawal
-Nuk mund të fus kodkalimin tim.,declined_cash_withdrawal
-Mendoj se kam harruar kodkalimin tim,declined_cash_withdrawal
-Nuk e di fjalëkalimin tim,declined_cash_withdrawal
-Kam harruar kodin që më duhet për të hyrë në aplikacion.,declined_cash_withdrawal
-"Nuk e di cili është kodkalimi im, a mund të më ndihmoni?",declined_cash_withdrawal
-Si mund ta rivendos kodkalimin tim?,declined_cash_withdrawal
-Çfarë mund të bëj nëse kodkalimi im nuk funksionon?,declined_cash_withdrawal
-"Nuk e mbaj mend kodin tim të aplikacionit, a mund ta rivendosësh atë?",declined_cash_withdrawal
-A mund të më ndihmojë dikush me kodkalimin tim?,declined_cash_withdrawal
-"Unë u përpoqa të tërhiqja para dhe më refuzuan, pse është kështu?",declined_cash_withdrawal
+Më duhet të rivendos kodkalimin.,passcode_forgotten
+Nuk mund të fus kodkalimin tim.,passcode_forgotten
+Mendoj se kam harruar kodkalimin tim,passcode_forgotten
+Nuk e di fjalëkalimin tim,passcode_forgotten
+Kam harruar kodin që më duhet për të hyrë në aplikacion.,passcode_forgotten
+"Nuk e di cili është kodkalimi im, a mund të më ndihmoni?",passcode_forgotten
+Si mund ta rivendos kodkalimin tim?,passcode_forgotten
+Çfarë mund të bëj nëse kodkalimi im nuk funksionon?,passcode_forgotten
+"Nuk e mbaj mend kodin tim të aplikacionit, a mund ta rivendosësh atë?",passcode_forgotten
+A mund të më ndihmojë dikush me kodkalimin tim?,passcode_forgotten
+"Unë u përpoqa të tërhiqja para dhe më refuzuan, pse është kështu?",passcode_forgotten
 Pse u refuzova kur u përpoqa të merrja paratë e mia?,declined_cash_withdrawal
 Nuk mund t'i aksesoja paratë e mia në ATM,declined_cash_withdrawal
 "Më duheshin para për një natë me vajzat, por më refuzuan, pse?",declined_cash_withdrawal
@@ -5091,17 +5080,17 @@ Mund të më duhet një kartë e re sepse nuk funksionon në asnjë nga ATM-të.
 "U përpoqa të tërhiqja disa fonde nga karta ime, por më refuzuan. Si mund t'i marr paratë e mia?",declined_cash_withdrawal
 Nuk mund të marr bankomatin për të më dhënë para,declined_cash_withdrawal
 Nuk mund të marr para nga ATM,declined_cash_withdrawal
-Si është e mundur që ATM nuk më jep paratë e mia?,pending_card_payment
-"U përpoqa të tërhiqja para nga ATM-ja juaj, por transaksioni im u anulua.",pending_card_payment
-Pse ATM anuloi transaksionin tim,pending_card_payment
-Pse ATM-ja nuk më jep para?,pending_card_payment
-Pse nuk do të kalonte tërheqja ime?,pending_card_payment
-"U përpoqa të merrja para në ATM, por më refuzuan",pending_card_payment
-ATM-ja nuk më la të merrja para,pending_card_payment
-Pse nuk jam në gjendje të tërheq para edhe pse në të kaluarën e kam bërë mirë?,pending_card_payment
-Më refuzuan kur u përpoqa të merrja para!,pending_card_payment
-si u refuzova,pending_card_payment
-Çfarë do të thotë kur një pagesë është në pritje?,pending_card_payment
+Si është e mundur që ATM nuk më jep paratë e mia?,declined_cash_withdrawal
+"U përpoqa të tërhiqja para nga ATM-ja juaj, por transaksioni im u anulua.",declined_cash_withdrawal
+Pse ATM anuloi transaksionin tim,declined_cash_withdrawal
+Pse ATM-ja nuk më jep para?,declined_cash_withdrawal
+Pse nuk do të kalonte tërheqja ime?,declined_cash_withdrawal
+"U përpoqa të merrja para në ATM, por më refuzuan",declined_cash_withdrawal
+ATM-ja nuk më la të merrja para,declined_cash_withdrawal
+Pse nuk jam në gjendje të tërheq para edhe pse në të kaluarën e kam bërë mirë?,declined_cash_withdrawal
+Më refuzuan kur u përpoqa të merrja para!,declined_cash_withdrawal
+si u refuzova,declined_cash_withdrawal
+Çfarë do të thotë kur një pagesë është në pritje?,declined_cash_withdrawal
 "Mund të më thoni, ju lutem, pse blerjet e mia nga ky mëngjes thonë se pagesa është në pritje?",pending_card_payment
 Blerja që bëra është ende në pritje.,pending_card_payment
 A ka ndonjë problem me pagesën që shoh se është ende në pritje?,pending_card_payment
@@ -5250,17 +5239,17 @@ Pse pagesa nga karta ime është ende në pritje?,pending_card_payment
 Për çfarë është pagesa në pritje në kartën time?,pending_card_payment
 "Ai thotë se pagesa ime është në pritje, çfarë do të thotë kjo?",pending_card_payment
 Unë u përpoqa të bëja një pagesë me kartën time dhe ajo u refuzua. Pse është në pritje?,pending_card_payment
-Pse thotë se kam një pagesë në pritje?,lost_or_stolen_phone
-"A ka ndonjë gjë të gabuar me pagesën time me kartë? Ka qenë në pritje për një kohë vërtet, vërtet të gjatë.",lost_or_stolen_phone
-Blerjet e mia nga ky mëngjes kanë ende pagesa në pritje.,lost_or_stolen_phone
-Kur do të përfundojë pagesa ime në pritje?,lost_or_stolen_phone
-"Kam përdorur kartën time për të bërë një pagesë pak kohë më parë dhe është ende në pritje, Pse po zgjat kaq shumë?",lost_or_stolen_phone
-Sa kohë duhet që një blerje të kalojë nga pezull në të autorizuar?,lost_or_stolen_phone
-"Karta ime ka qenë në pritje për një kohë, çfarë duhet të bëj?",lost_or_stolen_phone
-Ka një pagesë që kam bërë që kam vënë re se nuk ka kaluar ende. A mund të pyes pse?,lost_or_stolen_phone
-"Pagesa ime me kartë sapo po shfaqet si në pritje dhe ka kaluar një kohë, çfarë po ndodh me këtë, duhet të kalojë në një moment?",lost_or_stolen_phone
-Sa kohë do të jetë në pritje pagesa ime?,lost_or_stolen_phone
-"Më është vjedhur telefoni, çfarë duhet të bëj së pari?",lost_or_stolen_phone
+Pse thotë se kam një pagesë në pritje?,pending_card_payment
+"A ka ndonjë gjë të gabuar me pagesën time me kartë? Ka qenë në pritje për një kohë vërtet, vërtet të gjatë.",pending_card_payment
+Blerjet e mia nga ky mëngjes kanë ende pagesa në pritje.,pending_card_payment
+Kur do të përfundojë pagesa ime në pritje?,pending_card_payment
+"Kam përdorur kartën time për të bërë një pagesë pak kohë më parë dhe është ende në pritje, Pse po zgjat kaq shumë?",pending_card_payment
+Sa kohë duhet që një blerje të kalojë nga pezull në të autorizuar?,pending_card_payment
+"Karta ime ka qenë në pritje për një kohë, çfarë duhet të bëj?",pending_card_payment
+Ka një pagesë që kam bërë që kam vënë re se nuk ka kaluar ende. A mund të pyes pse?,pending_card_payment
+"Pagesa ime me kartë sapo po shfaqet si në pritje dhe ka kaluar një kohë, çfarë po ndodh me këtë, duhet të kalojë në një moment?",pending_card_payment
+Sa kohë do të jetë në pritje pagesa ime?,pending_card_payment
+"Më është vjedhur telefoni, çfarë duhet të bëj së pari?",pending_card_payment
 "Më kanë vjedhur telefonin, çfarë duhet të bëj?",lost_or_stolen_phone
 "Kam humbur telefonin tim, çfarë duhet të bëj?",lost_or_stolen_phone
 "Dikush më ka vjedhur telefonin, çfarë duhet të bëj?",lost_or_stolen_phone
@@ -5371,17 +5360,17 @@ Nuk jam i sigurt se ku është telefoni im. A mund ta përdorë dikush tjetër a
 "Telefoni im ka humbur Nuk dua që dikush të përdorë llogarinë time, çfarë mund të bëj?",lost_or_stolen_phone
 Telefoni im është vjedhur.,lost_or_stolen_phone
 "Sapo e ndërrova telefonin, por si t'i përdor informacionet e kartës?",lost_or_stolen_phone
-Çfarë duhet të bëj nëse telefoni im inteligjent është vjedhur?,request_refund
-Si mund ta ndaloj dikë që të përdorë kartën time pasi e humba dje.,request_refund
-A duhet të bëj ndonjë gjë? Dje më vodhën telefonin.,request_refund
-Ndihmë! Cfare duhet te bej? Dje më vodhën telefonin.,request_refund
-E lashë telefonin në hotel.,request_refund
-Gjithçka më është vjedhur. Nuk mund ta përdor aplikacionin. Ju lutemi këshilloni.,request_refund
-Gjërat e mia janë vjedhur dhe duhet të di nëse mund ta përdor akoma këtë aplikacion.,request_refund
-"humba telefonin tim, çfarë është siguria e llogarisë?",request_refund
-Kam humbur telefonin tim. Çfarë duhet të bëj për të bllokuar dikë tjetër që të përdorë llogarinë time?,request_refund
-"telefoni është në hotel, a mund ta përdor akoma aplikacionin",request_refund
-Sa kohë duhet për të marrë një rimbursim për diçka që kam blerë?,request_refund
+Çfarë duhet të bëj nëse telefoni im inteligjent është vjedhur?,lost_or_stolen_phone
+Si mund ta ndaloj dikë që të përdorë kartën time pasi e humba dje.,lost_or_stolen_phone
+A duhet të bëj ndonjë gjë? Dje më vodhën telefonin.,lost_or_stolen_phone
+Ndihmë! Cfare duhet te bej? Dje më vodhën telefonin.,lost_or_stolen_phone
+E lashë telefonin në hotel.,lost_or_stolen_phone
+Gjithçka më është vjedhur. Nuk mund ta përdor aplikacionin. Ju lutemi këshilloni.,lost_or_stolen_phone
+Gjërat e mia janë vjedhur dhe duhet të di nëse mund ta përdor akoma këtë aplikacion.,lost_or_stolen_phone
+"humba telefonin tim, çfarë është siguria e llogarisë?",lost_or_stolen_phone
+Kam humbur telefonin tim. Çfarë duhet të bëj për të bllokuar dikë tjetër që të përdorë llogarinë time?,lost_or_stolen_phone
+"telefoni është në hotel, a mund ta përdor akoma aplikacionin",lost_or_stolen_phone
+Sa kohë duhet për të marrë një rimbursim për diçka që kam blerë?,lost_or_stolen_phone
 Ju lutem më tregoni se si të marr një rimbursim për diçka që kam blerë.,request_refund
 A mund ta anuloj këtë blerje?,request_refund
 "Dua të kthej një artikull për një rimbursim, a mund ta bëj këtë?",request_refund
@@ -5540,17 +5529,17 @@ Do të doja rimbursimin tim për këtë artikull që bleva.,request_refund
 A mund t'i kthej paratë e mia për një artikull?,request_refund
 Unë do të doja të tërhiqja blerjen time.,request_refund
 Do të doja të rimbursoja një artikull,request_refund
-"Përshëndetje, do të doja t'ju informoja për një problem që po përjetoj aktualisht. Mallrat që kam porositur nga faqja juaj e internetit nuk kanë ardhur ende; kanë kaluar më shumë se 3 javë. Do të doja që të më jepet një rimbursim i shpejtë dhe të ridrejtohem te njerëzit më kompetent. Faleminderit për ndihmën tuaj.",declined_transfer
-Cila është politika e kthimit?,declined_transfer
-Po e anuloj këtë tarifë. Unë ende nuk kam marrë atë që kam blerë nga këta njerëz pak kohë më parë.,declined_transfer
-A mund të marr një rimbursim?,declined_transfer
-A mund të kem rimbursim për një nga produktet tuaja?,declined_transfer
-A mund të shkëmbej një artikull për një rimbursim?,declined_transfer
-"Dua të rimbursohet një artikull, a mund ta bëj këtë?",declined_transfer
-"Mund të shpjegoni politikën tuaj të rimbursimit, ju lutem?",declined_transfer
-Si mund të marr një rimbursim për artikullin tim?,declined_transfer
-Nuk e dua më këtë a mund ta anuloj blerjen time?,declined_transfer
-"Transferimi nuk mund të kryhet, deklaron 'refuzuar'",declined_transfer
+"Përshëndetje, do të doja t'ju informoja për një problem që po përjetoj aktualisht. Mallrat që kam porositur nga faqja juaj e internetit nuk kanë ardhur ende; kanë kaluar më shumë se 3 javë. Do të doja që të më jepet një rimbursim i shpejtë dhe të ridrejtohem te njerëzit më kompetent. Faleminderit për ndihmën tuaj.",request_refund
+Cila është politika e kthimit?,request_refund
+Po e anuloj këtë tarifë. Unë ende nuk kam marrë atë që kam blerë nga këta njerëz pak kohë më parë.,request_refund
+A mund të marr një rimbursim?,request_refund
+A mund të kem rimbursim për një nga produktet tuaja?,request_refund
+A mund të shkëmbej një artikull për një rimbursim?,request_refund
+"Dua të rimbursohet një artikull, a mund ta bëj këtë?",request_refund
+"Mund të shpjegoni politikën tuaj të rimbursimit, ju lutem?",request_refund
+Si mund të marr një rimbursim për artikullin tim?,request_refund
+Nuk e dua më këtë a mund ta anuloj blerjen time?,request_refund
+"Transferimi nuk mund të kryhet, deklaron 'refuzuar'",request_refund
 Pse u refuzua kërkesa ime për transferim?,declined_transfer
 Transferimi im u refuzua,declined_transfer
 U përpoqa të blija diçka në internet dje dhe mora një mesazh që thoshte refuzova. Provova sërish sot dhe mora të njëjtin mesazh. Ku qendron problemi?,declined_transfer
@@ -5673,17 +5662,17 @@ Pse po refuzohen transferimet e mia? Nuk kam pasur problem në të kaluarën.,de
 Me ndihmo. Transferimi im u refuzua. Si mund të ndodhte kjo?,declined_transfer
 "Kam provuar gjithçka për të përfunduar një transferim, por nuk mundem, çfarë duhet të bëj më pas",declined_transfer
 "Nuk e di se çfarë po ndodh, por të gjitha transferimet e mia vazhdojnë të bien. Unë i kam kontrolluar dy herë detajet e marrësit. Këto detaje janë të gjitha të sakta.",declined_transfer
-"Përshëndetje, Dje nuk munda të bëja blerje në internet pasi po refuzohej. Sot po përballem me të njëjtën çështje. Ju lutem më ndihmoni në këtë drejtim.",Refund_not_showing_up
-"Transferimet e mia vazhdojnë të refuzohen. Karta ime funksiononte mirë deri më tani, por papritmas ka pushuar së punuari. Pse eshte kjo?",Refund_not_showing_up
-Shkova për të bërë një transferim dhe më refuzuan.,Refund_not_showing_up
-"Pse po dështojnë të gjitha transferimet e mia? I kam të drejta detajet dhe nuk do të plotësohen. Jam munduar gjithe diten dhe akoma nuk kalojne, kjo eshte URGJENT, ju lutem me ndihmoni.",Refund_not_showing_up
-"Refuzuar, transferimi nuk ka përfunduar.",Refund_not_showing_up
-Pashë që transferimi im ishte refuzuar.,Refund_not_showing_up
-"Pse vazhdoni të refuzoni transferimet e mia? Gjithmonë ka funksionuar shumë mirë deri më tani, por kur u përpoqa të blija diçka vetëm tani kartela u refuzua, kam provuar disa herë tashmë, por e njëjta gjë po ndodh.",Refund_not_showing_up
-Si mund të gjej një mënyrë për të transferuar para pa u refuzuar?,Refund_not_showing_up
-Unë kam një problem me llogarinë time. U përpoqa të transferoja disa fonde dhe mesazhi nuk u kthye. A mund te me ndihmosh?,Refund_not_showing_up
-Ju lutemi shpjegoni pse u refuzua përpjekja ime për transferim. Faleminderit.,Refund_not_showing_up
-"Nuk i shoh ende paratë e mia të rimbursimit në llogarinë time. I kërkova tregtarit pak kohë më parë një rimbursim, kështu që nuk e di se çfarë po zgjat kaq shumë. Mund ta shikoni dhe të shihni nëse paratë janë atje, thjesht nuk janë ende në llogarinë time?",Refund_not_showing_up
+"Përshëndetje, Dje nuk munda të bëja blerje në internet pasi po refuzohej. Sot po përballem me të njëjtën çështje. Ju lutem më ndihmoni në këtë drejtim.",declined_transfer
+"Transferimet e mia vazhdojnë të refuzohen. Karta ime funksiononte mirë deri më tani, por papritmas ka pushuar së punuari. Pse eshte kjo?",declined_transfer
+Shkova për të bërë një transferim dhe më refuzuan.,declined_transfer
+"Pse po dështojnë të gjitha transferimet e mia? I kam të drejta detajet dhe nuk do të plotësohen. Jam munduar gjithe diten dhe akoma nuk kalojne, kjo eshte URGJENT, ju lutem me ndihmoni.",declined_transfer
+"Refuzuar, transferimi nuk ka përfunduar.",declined_transfer
+Pashë që transferimi im ishte refuzuar.,declined_transfer
+"Pse vazhdoni të refuzoni transferimet e mia? Gjithmonë ka funksionuar shumë mirë deri më tani, por kur u përpoqa të blija diçka vetëm tani kartela u refuzua, kam provuar disa herë tashmë, por e njëjta gjë po ndodh.",declined_transfer
+Si mund të gjej një mënyrë për të transferuar para pa u refuzuar?,declined_transfer
+Unë kam një problem me llogarinë time. U përpoqa të transferoja disa fonde dhe mesazhi nuk u kthye. A mund te me ndihmosh?,declined_transfer
+Ju lutemi shpjegoni pse u refuzua përpjekja ime për transferim. Faleminderit.,declined_transfer
+"Nuk i shoh ende paratë e mia të rimbursimit në llogarinë time. I kërkova tregtarit pak kohë më parë një rimbursim, kështu që nuk e di se çfarë po zgjat kaq shumë. Mund ta shikoni dhe të shihni nëse paratë janë atje, thjesht nuk janë ende në llogarinë time?",declined_transfer
 Pse më mungon rimbursimi im,Refund_not_showing_up
 Të lutem më ndihmo. Unë jam ende duke pritur për një rimbursim.,Refund_not_showing_up
 "Kam kërkuar një rimbursim, por nuk mund ta shoh atë në llogarinë time. Pse eshte ajo?",Refund_not_showing_up
@@ -5835,17 +5824,17 @@ Mund të më thoni nëse një kredi/rimbursim po vjen nga një shitës? Kërkova
 Pse nuk mund ta shoh rimbursimin tim në deklaratën time?,Refund_not_showing_up
 Ku është rimbursimi në deklaratën time?,Refund_not_showing_up
 "Duhet të kem një rimbursim në deklaratën time, por nuk mund ta shoh",Refund_not_showing_up
-"Unë jam duke pritur një rimbursim, por nuk është ku të shihet",declined_card_payment
-Nuk ka rimbursim në deklaratën time.,declined_card_payment
-"Unë i kam kontrolluar disa herë deklaratat e mia, por rimbursimi im që kam kërkuar pak kohë më parë nuk shfaqet në llogarinë time. A ka ndonjë arsye për këtë? A mund të marr ndihmë për të rikthyer paratë e mia nga ky transaksion?",declined_card_payment
-"Nuk jam i sigurt nëse një shitës po më kthen paratë e mia! I kërkova të më kthenin paratë për artikullin, por ka kaluar një javë dhe ende asgjë nuk më është kthyer. Mund ta zgjidhni këtë për mua?",declined_card_payment
-Kur do të postohet një rimbursim në llogarinë time?,declined_card_payment
-Kur do të mund të shoh rimbursimin tim?,declined_card_payment
-"Bëra një blerje të madhe për të cilën u pendova dhe e anulova, tregtari tha që rimbursimi im ishte dorëzuar. A mund të më konfirmoni se të gjitha paratë e mia m'u kthyen vërtet?",declined_card_payment
-Unë kam qenë duke kontrolluar deklaratën time për të parë nëse kam marrë një rimbursim që kam kërkuar nga një shitës pak kohë më parë. Por nuk ka. Kjo duhet të më ishte kthyer tashmë. A mund të më ndihmoni të kuptoj pse nuk është këtu dhe të marr paratë e mia?,declined_card_payment
-Ende në pritje të rimbursimit tim ...,declined_card_payment
-Nuk mund ta shoh rimbursimin tim në llogarinë time,declined_card_payment
-Nuk jam i sigurt pse karta ime nuk funksionoi,declined_card_payment
+"Unë jam duke pritur një rimbursim, por nuk është ku të shihet",Refund_not_showing_up
+Nuk ka rimbursim në deklaratën time.,Refund_not_showing_up
+"Unë i kam kontrolluar disa herë deklaratat e mia, por rimbursimi im që kam kërkuar pak kohë më parë nuk shfaqet në llogarinë time. A ka ndonjë arsye për këtë? A mund të marr ndihmë për të rikthyer paratë e mia nga ky transaksion?",Refund_not_showing_up
+"Nuk jam i sigurt nëse një shitës po më kthen paratë e mia! I kërkova të më kthenin paratë për artikullin, por ka kaluar një javë dhe ende asgjë nuk më është kthyer. Mund ta zgjidhni këtë për mua?",Refund_not_showing_up
+Kur do të postohet një rimbursim në llogarinë time?,Refund_not_showing_up
+Kur do të mund të shoh rimbursimin tim?,Refund_not_showing_up
+"Bëra një blerje të madhe për të cilën u pendova dhe e anulova, tregtari tha që rimbursimi im ishte dorëzuar. A mund të më konfirmoni se të gjitha paratë e mia m'u kthyen vërtet?",Refund_not_showing_up
+Unë kam qenë duke kontrolluar deklaratën time për të parë nëse kam marrë një rimbursim që kam kërkuar nga një shitës pak kohë më parë. Por nuk ka. Kjo duhet të më ishte kthyer tashmë. A mund të më ndihmoni të kuptoj pse nuk është këtu dhe të marr paratë e mia?,Refund_not_showing_up
+Ende në pritje të rimbursimit tim ...,Refund_not_showing_up
+Nuk mund ta shoh rimbursimin tim në llogarinë time,Refund_not_showing_up
+Nuk jam i sigurt pse karta ime nuk funksionoi,Refund_not_showing_up
 Karta ime nuk funksionon në dyqane.,declined_card_payment
 A e dini pse është refuzuar pagesa me kartë?,declined_card_payment
 "Pse karta ime nuk funksionon? Më nxitën të përdor kartën time të re, por ajo vazhdon të refuzohet. Ndihmë ju lutem.",declined_card_payment
@@ -5988,17 +5977,17 @@ Karta ime nuk u pranua në një dyqan,declined_card_payment
 Unë kisha një pagesë me kartë që u refuzua. Pse?,declined_card_payment
 Si ndodh që pagesa ime me kartë është refuzuar?,declined_card_payment
 "Unë kam mjaft para në llogarinë time, kështu që pse po refuzohet karta ime?",declined_card_payment
-A mund të më këshilloni nëse ka diçka që nuk shkon me kartën time? Kam pasur disa refuzime dhe nuk e di arsyen. Faleminderit!,pending_transfer
-"Pagesa me kartë u refuzua, a e dini pse?",pending_transfer
-Kam provuar disa herë të bëj një pagesë dhe sa herë që karta ime refuzohet? A mund të bllokohet karta ime? Nuk di çfarë të bëj.,pending_transfer
-"Kam pasur një problem me pagesën me kartë, mund të më ndihmoni?",pending_transfer
-Unë u përpoqa të përdor kartën time në një dyqan dhe transaksioni u refuzua.,pending_transfer
-"Unë isha jashtë sot duke pritur me padurim të paguaj me kartën time të re, rezulton se pagesa vazhdonte të refuzohej. Kjo është vërtet e trishtueshme, çfarë po ndodh?",pending_transfer
-Pagesa me kartë nuk u krye.,pending_transfer
-Ju lutem më ndihmoni të më shpjegoni pse kartela ime e re u refuzua kur u përpoqa ta përdorja në dyqanin tim ushqimor këtë mëngjes për të paguar artikujt që më duheshin. U përpoqa tre herë ta përdorja dhe vazhdoi të refuzohej. Unë isha shumë i turpëruar duke qëndruar atje duke u përpjekur të blija sendet e mia.,pending_transfer
-Pagesa me kartë nuk ishte e suksesshme.,pending_transfer
-Më trego pse u refuzua pagesa me kartë.,pending_transfer
-"kam vënë para për pushime dhe nuk shfaqen. Unë kam nevojë për ato para sot, sa kohë do të zgjasë",pending_transfer
+A mund të më këshilloni nëse ka diçka që nuk shkon me kartën time? Kam pasur disa refuzime dhe nuk e di arsyen. Faleminderit!,declined_card_payment
+"Pagesa me kartë u refuzua, a e dini pse?",declined_card_payment
+Kam provuar disa herë të bëj një pagesë dhe sa herë që karta ime refuzohet? A mund të bllokohet karta ime? Nuk di çfarë të bëj.,declined_card_payment
+"Kam pasur një problem me pagesën me kartë, mund të më ndihmoni?",declined_card_payment
+Unë u përpoqa të përdor kartën time në një dyqan dhe transaksioni u refuzua.,declined_card_payment
+"Unë isha jashtë sot duke pritur me padurim të paguaj me kartën time të re, rezulton se pagesa vazhdonte të refuzohej. Kjo është vërtet e trishtueshme, çfarë po ndodh?",declined_card_payment
+Pagesa me kartë nuk u krye.,declined_card_payment
+Ju lutem më ndihmoni të më shpjegoni pse kartela ime e re u refuzua kur u përpoqa ta përdorja në dyqanin tim ushqimor këtë mëngjes për të paguar artikujt që më duheshin. U përpoqa tre herë ta përdorja dhe vazhdoi të refuzohej. Unë isha shumë i turpëruar duke qëndruar atje duke u përpjekur të blija sendet e mia.,declined_card_payment
+Pagesa me kartë nuk ishte e suksesshme.,declined_card_payment
+Më trego pse u refuzua pagesa me kartë.,declined_card_payment
+"kam vënë para për pushime dhe nuk shfaqen. Unë kam nevojë për ato para sot, sa kohë do të zgjasë",declined_card_payment
 Nuk mund ta kuptoj pse një transferim është ende në pritje?,pending_transfer
 "Përpunimi i transfertave mund të zgjasë deri në një ditë përpara se të nisen për në llogaritë e përfituesve. Ju lutemi konfirmoni që i keni futur saktë të dhënat e llogarisë suaj. Transfertat SEPA mund të zgjasin deri në dy ditë pune, ndërsa transfertat SWIFT mund të zgjasin deri në pesë ditë pune.",pending_transfer
 Kur do të përfundojë transferimi im në pritje?,pending_transfer
@@ -6136,17 +6125,17 @@ Unë kam një transfertë parash në pritje,pending_transfer
 Për çfarë arsye transferimi im është ende pezull tani?,pending_transfer
 Shitësi i artikujve që bleva në internet një ditë më parë nuk e ka marrë ende transfertën në BE. Sa kohë zgjasin zakonisht këto?,pending_transfer
 "Transferimi im është në pritje, pse?",pending_transfer
-Mund të më thoni pse transferimi im është ende në pritje?,terminate_account
-Unë jam ende duke pritur për një transfertë parash për të përpunuar.,terminate_account
-Kam një transferim të miratuar që po e pres urgjentisht. Sa kohë duhet ta pres?,terminate_account
-Sa zgjat periudha 'në pritje' e një transferimi?,terminate_account
-"Transferimi im u krye, por duket se është kapur në një status në pritje. Kjo ishte shumë e rëndësishme që u bë shpejt, a mund të më jepni një përditësim të statusit se sa kohë do të zgjasë?",terminate_account
-Transferimi im thotë në pritje. Cfare do te thote ajo?,terminate_account
-Mund të më thoni kur do të përfundojë transferimi?,terminate_account
-Më duhet të di pse është i disponueshëm një transferim parash.,terminate_account
-Unë jam ende duke pritur për një transfertë parash për të treguar.,terminate_account
-"Në pritje ende shfaqet për këtë transferim, pse?",terminate_account
-Si ta çaktivizoj llogarinë time?,terminate_account
+Mund të më thoni pse transferimi im është ende në pritje?,pending_transfer
+Unë jam ende duke pritur për një transfertë parash për të përpunuar.,pending_transfer
+Kam një transferim të miratuar që po e pres urgjentisht. Sa kohë duhet ta pres?,pending_transfer
+Sa zgjat periudha 'në pritje' e një transferimi?,pending_transfer
+"Transferimi im u krye, por duket se është kapur në një status në pritje. Kjo ishte shumë e rëndësishme që u bë shpejt, a mund të më jepni një përditësim të statusit se sa kohë do të zgjasë?",pending_transfer
+Transferimi im thotë në pritje. Cfare do te thote ajo?,pending_transfer
+Mund të më thoni kur do të përfundojë transferimi?,pending_transfer
+Më duhet të di pse është i disponueshëm një transferim parash.,pending_transfer
+Unë jam ende duke pritur për një transfertë parash për të treguar.,pending_transfer
+"Në pritje ende shfaqet për këtë transferim, pse?",pending_transfer
+Si ta çaktivizoj llogarinë time?,pending_transfer
 Hiq llogarinë time menjëherë.,terminate_account
 A jeni në gjendje të fshini llogarinë time?,terminate_account
 Si ta ndërpres llogarinë time?,terminate_account
@@ -6244,17 +6233,17 @@ Më duhet të mbyll llogarinë time. Kompania juaj është e tmerrshme!,terminat
 Më tregoni se si ta fshij llogarinë time.,terminate_account
 Ju lutemi fshini llogarinë time dhe informacionin personal.,terminate_account
 "Nuk jam i lumtur, dua të mbyll llogarinë time.",terminate_account
-Fshi llogarinë time të lutem. Tani!,card_swallowed
-"Shërbimi këtu është i tmerrshëm, dua të fshij llogarinë time.",card_swallowed
-Si mund të fshij një llogari?,card_swallowed
-Mund të çaktivizoni llogarinë time aktuale.,card_swallowed
-"Kompania nuk është e mirë, ju lutem mbyllni llogarinë time.",card_swallowed
-"Jam i pakënaqur, do të doja të mbyllja llogarinë time.",card_swallowed
-Nuk jam i kënaqur me shërbimet që po ofroni. Do të doja të mbyllja shërbimet e mia dhe të fshija llogarinë time.,card_swallowed
-Më duhet të mbyll llogarinë time sa më shpejt të jetë e mundur.,card_swallowed
-Nuk jam i kënaqur me shërbimin tuaj. Mbyll llogarinë time.,card_swallowed
-"Nuk e dua më këtë llogari, çfarë duhet të bëj?",card_swallowed
-Çfarë duhet të bëj nëse ATM-ja ma ka marrë kartën?,card_swallowed
+Fshi llogarinë time të lutem. Tani!,terminate_account
+"Shërbimi këtu është i tmerrshëm, dua të fshij llogarinë time.",terminate_account
+Si mund të fshij një llogari?,terminate_account
+Mund të çaktivizoni llogarinë time aktuale.,terminate_account
+"Kompania nuk është e mirë, ju lutem mbyllni llogarinë time.",terminate_account
+"Jam i pakënaqur, do të doja të mbyllja llogarinë time.",terminate_account
+Nuk jam i kënaqur me shërbimet që po ofroni. Do të doja të mbyllja shërbimet e mia dhe të fshija llogarinë time.,terminate_account
+Më duhet të mbyll llogarinë time sa më shpejt të jetë e mundur.,terminate_account
+Nuk jam i kënaqur me shërbimin tuaj. Mbyll llogarinë time.,terminate_account
+"Nuk e dua më këtë llogari, çfarë duhet të bëj?",terminate_account
+Çfarë duhet të bëj nëse ATM-ja ma ka marrë kartën?,terminate_account
 Çfarë duhet të bëj tani karta ime e kreditit është gëlltitur nga ATM?,card_swallowed
 Një ATM nuk ma ktheu kartën.,card_swallowed
 "Karta ime u bllokua brenda një ATM, çfarë duhet të bëj?",card_swallowed
@@ -6305,17 +6294,17 @@ Si mund të marr një kartë të re pasi makina juaj gëlltiti timen!,card_swall
 ATM-ja ma hëngri kartën.,card_swallowed
 Si të merrni një kartë të re pasi ATM e ha atë,card_swallowed
 Kartën ma hëngri kasaforta çfarë të bëj?,card_swallowed
-Çfarë të bëj pasi ATM-ja ma merr kartën?,transaction_charged_twice
-Si mund ta nxjerr kartën time nga ATM?,transaction_charged_twice
-"Ju lutem, do të më ndihmoni të kthej kartën time?",transaction_charged_twice
-ATM-ja ma hëngri kartën; si mund të marr një të re?,transaction_charged_twice
-Si mund ta kthej kartën time pasi ATM-ja e ka gëlltitur.,transaction_charged_twice
-"Karta ime është ngecur në një makinë ATM, si ta kthej shpejt?",transaction_charged_twice
-atm hëngri kartën time,transaction_charged_twice
-Cilat janë hapat që duhet të ndërmarr për të rikuperuar kartën time të gëlltitur?,transaction_charged_twice
-"Karta ime është bllokuar brenda bankomatit, çfarë duhet të bëj?",transaction_charged_twice
-Çfarë duhet të bëj me ATM-në time të bllokuar?,transaction_charged_twice
-Një transaksion tregon kohë të dyfishta.,transaction_charged_twice
+Çfarë të bëj pasi ATM-ja ma merr kartën?,card_swallowed
+Si mund ta nxjerr kartën time nga ATM?,card_swallowed
+"Ju lutem, do të më ndihmoni të kthej kartën time?",card_swallowed
+ATM-ja ma hëngri kartën; si mund të marr një të re?,card_swallowed
+Si mund ta kthej kartën time pasi ATM-ja e ka gëlltitur.,card_swallowed
+"Karta ime është ngecur në një makinë ATM, si ta kthej shpejt?",card_swallowed
+atm hëngri kartën time,card_swallowed
+Cilat janë hapat që duhet të ndërmarr për të rikuperuar kartën time të gëlltitur?,card_swallowed
+"Karta ime është bllokuar brenda bankomatit, çfarë duhet të bëj?",card_swallowed
+Çfarë duhet të bëj me ATM-në time të bllokuar?,card_swallowed
+Një transaksion tregon kohë të dyfishta.,card_swallowed
 Ka një tarifë të përsëritur për të njëjtin artikull,transaction_charged_twice
 Si mund ta rregulloj këtë? Ka një tarifë të dyfishtë në llogarinë time.,transaction_charged_twice
 Karta ime u tarifua dy herë për të njëjtën gjë!,transaction_charged_twice
@@ -6480,17 +6469,17 @@ Unë kam një transaksion që shfaqet më shumë se një herë.,transaction_char
 A mund të shpjegoni kohët e ndryshme të transaksionit të treguara në deklaratën time?,transaction_charged_twice
 Jam tarifuar shumë herë për një transaksion.,transaction_charged_twice
 Me kë duhet të flas ose të shkoj për të zgjidhur një tarifë të dyfishtë në deklaratën time?,transaction_charged_twice
-Pse u tarifova dy herë për të njëjtin transaksion?,verify_source_of_funds
-"Duke parë deklaratën time, shoh se jam ngarkuar dyfish për një pagesë që kam bërë.",verify_source_of_funds
-Unë jam akuzuar dy herë për të njëjtën gjë!,verify_source_of_funds
-Mendoj se jam tarifuar dyfish për diçka që kam blerë - sa kohë duhet të pres përpara se ta raportoj këtë?,verify_source_of_funds
-Pse një pagesë shfaqet dy herë?,verify_source_of_funds
-Është bërë një pagesë e dyfishtë për diçka.,verify_source_of_funds
-Pse ka dy transaksione të njëjta?,verify_source_of_funds
-Llogaria ime duket paksa e fikur dhe merr tarifa të çuditshme.,verify_source_of_funds
-Kam shumë tarifa për një transaksion.,verify_source_of_funds
-Përshëndetje. Sapo vura re se u tarifova dy herë për një restorant që vizitova këtë javë. A mund ta ktheni tarifën shtesë?,verify_source_of_funds
-nga vijnë saktësisht paratë,verify_source_of_funds
+Pse u tarifova dy herë për të njëjtin transaksion?,transaction_charged_twice
+"Duke parë deklaratën time, shoh se jam ngarkuar dyfish për një pagesë që kam bërë.",transaction_charged_twice
+Unë jam akuzuar dy herë për të njëjtën gjë!,transaction_charged_twice
+Mendoj se jam tarifuar dyfish për diçka që kam blerë - sa kohë duhet të pres përpara se ta raportoj këtë?,transaction_charged_twice
+Pse një pagesë shfaqet dy herë?,transaction_charged_twice
+Është bërë një pagesë e dyfishtë për diçka.,transaction_charged_twice
+Pse ka dy transaksione të njëjta?,transaction_charged_twice
+Llogaria ime duket paksa e fikur dhe merr tarifa të çuditshme.,transaction_charged_twice
+Kam shumë tarifa për një transaksion.,transaction_charged_twice
+Përshëndetje. Sapo vura re se u tarifova dy herë për një restorant që vizitova këtë javë. A mund ta ktheni tarifën shtesë?,transaction_charged_twice
+nga vijnë saktësisht paratë,transaction_charged_twice
 Nga erdhën paratë e mia?,verify_source_of_funds
 A mund të kontrolloj për të parë se nga kanë ardhur fondet?,verify_source_of_funds
 Cilat janë burimet për fondet në llogarinë time?,verify_source_of_funds
@@ -6593,17 +6582,17 @@ A mund të shoh se nga vijnë fondet e mia?,verify_source_of_funds
 Ku mund të kontrolloj burimin e fondeve të disponueshme në llogarinë time?,verify_source_of_funds
 A mundet dikush të më shpjegojë nga ka ardhur burimi im i fondeve?,verify_source_of_funds
 duan të dinë se nga vijnë fondet,verify_source_of_funds
-Ku mund të kontrolloj për të parë se nga kanë ardhur paratë në llogarinë time?,transfer_timing
-Si mund të zbuloj se ku rrjedhin fondet?,transfer_timing
-Çfarë duhet të bëj për të verifikuar burimin tim të fondeve?,transfer_timing
-Unë do të doja të di se nga vijnë fondet e mia.,transfer_timing
-Si mund të kontrolloj për të parë se nga vijnë fondet e mia?,transfer_timing
-a ka ndonjë mënyrë për të parë burimin e parave?,transfer_timing
-Si mund ta verifikoj burimin tim të fondeve?,transfer_timing
-Nga burojnë fondet e mia?,transfer_timing
-Cili është burimi i parave në llogarinë time?,transfer_timing
-Si e shoh burimin e parave të mia?,transfer_timing
-Sa kohë duhet të pres përpara se transferta të arrijë në llogarinë time?,transfer_timing
+Ku mund të kontrolloj për të parë se nga kanë ardhur paratë në llogarinë time?,verify_source_of_funds
+Si mund të zbuloj se ku rrjedhin fondet?,verify_source_of_funds
+Çfarë duhet të bëj për të verifikuar burimin tim të fondeve?,verify_source_of_funds
+Unë do të doja të di se nga vijnë fondet e mia.,verify_source_of_funds
+Si mund të kontrolloj për të parë se nga vijnë fondet e mia?,verify_source_of_funds
+a ka ndonjë mënyrë për të parë burimin e parave?,verify_source_of_funds
+Si mund ta verifikoj burimin tim të fondeve?,verify_source_of_funds
+Nga burojnë fondet e mia?,verify_source_of_funds
+Cili është burimi i parave në llogarinë time?,verify_source_of_funds
+Si e shoh burimin e parave të mia?,verify_source_of_funds
+Sa kohë duhet të pres përpara se transferta të arrijë në llogarinë time?,verify_source_of_funds
 A do të shfaqet transferta në llogarinë time së shpejti?,transfer_timing
 Sa kohë do të marrë një transferim nga SHBA?,transfer_timing
 Kur do të arrijnë paratë në llogarinë time?,transfer_timing
@@ -6721,17 +6710,17 @@ cili është afati kohor për transferimet,transfer_timing
 "Nëse marr një transfertë nga Europa, sa kohë është në llogarinë time?",transfer_timing
 Kur do të vihen në dispozicion paratë në llogarinë time?,transfer_timing
 Sa kohë duhet që një transfertë të arrijë në llogarinë time?,transfer_timing
-Sa është koha e parashikuar e pritjes për transfertat nga SHBA?,reverted_card_payment?
-Sa është kohëzgjatja që paratë të arrijnë në llogari?,reverted_card_payment?
-Kur mund të pres një transferim nga Europa?,reverted_card_payment?
-Pse nuk ka kaluar transferimi im nga Europa?,reverted_card_payment?
-Transfertat nga SHBA sa do të jetë pritja?,reverted_card_payment?
-Çfarë po zgjat kaq shumë gjatë transferimit tim nga SHBA?,reverted_card_payment?
-Sa kohë zgjat transferimi nga SHBA?,reverted_card_payment?
-Sa kohë zgjat një transaksion transferimi?,reverted_card_payment?
-Sa kohë duhet për të bërë një transferim urgjent nga Kina?,reverted_card_payment?
-Ndihmë për transferimin e parave? Sa gjatë?,reverted_card_payment?
-"Doja të blija diçka në internet, por pagesa m'u kthye. Kjo ka ndodhur për disa javë. Ju lutem më tregoni se çfarë po ndodh këtu?",reverted_card_payment?
+Sa është koha e parashikuar e pritjes për transfertat nga SHBA?,transfer_timing
+Sa është kohëzgjatja që paratë të arrijnë në llogari?,transfer_timing
+Kur mund të pres një transferim nga Europa?,transfer_timing
+Pse nuk ka kaluar transferimi im nga Europa?,transfer_timing
+Transfertat nga SHBA sa do të jetë pritja?,transfer_timing
+Çfarë po zgjat kaq shumë gjatë transferimit tim nga SHBA?,transfer_timing
+Sa kohë zgjat transferimi nga SHBA?,transfer_timing
+Sa kohë zgjat një transaksion transferimi?,transfer_timing
+Sa kohë duhet për të bërë një transferim urgjent nga Kina?,transfer_timing
+Ndihmë për transferimin e parave? Sa gjatë?,transfer_timing
+"Doja të blija diçka në internet, por pagesa m'u kthye. Kjo ka ndodhur për disa javë. Ju lutem më tregoni se çfarë po ndodh këtu?",transfer_timing
 "U përpoqa të përdor kartën time të debitit, por pagesa nuk funksionoi.",reverted_card_payment?
 "Përshëndetje, pata një problem me pagesën me kartë dhe tregon në llogarinë time që pagesa ime u krye. Më pas u kontaktova nga shitësi duke thënë 'nuk e morën pagesën time' më pas pagesa u kthye në llogarinë time. kështu që unë do të doja të shihja pse e bëri këtë, ju lutem.",reverted_card_payment?
 Mendoj se pagesa ime me kartë është rikthyer,reverted_card_payment?
@@ -6882,17 +6871,17 @@ A u anulua një pagesë me kartë që bëra?,reverted_card_payment?
 Një shitës po thotë se nuk kanë marrë ende para kur paratë janë zbritur tashmë nga llogaria ime.,reverted_card_payment?
 "Nuk jam i sigurt, por duket sikur një pagesë me kartë që kam bërë është anuluar.",reverted_card_payment?
 Paratë janë ende në llogarinë time edhe pse kam paguar tashmë -- nuk e kuptoj se çfarë ndodhi.,reverted_card_payment?
-Pagesa ime me kartë mund të jetë rikthyer.,change_pin
-"Vura re se pagesa ime me kartë ishte anuluar, a mund të më thoni pse?",change_pin
-Nuk jam në gjendje të blej asgjë në internet! Unë e kam përdorur kartën time në shumë site për një periudhë prej dy javësh dhe asnjë nga pagesat nuk ka kaluar. Pse po ndodh kjo?,change_pin
-Besoj se pagesa ime me kartë është rikthyer,change_pin
-Çfarë duhet të bëj nëse pagesa ime është kthyer?,change_pin
-Pagesa ime u ndalua,change_pin
-Pagesa ime u anulua,change_pin
-Pagesa ime nuk u krye sepse aplikacioni e ktheu atë,change_pin
-A u rikthye pagesa me kartë?,change_pin
-A është e mundur që pagesa ime me kartë të jetë rikthyer?,change_pin
-A është e mundur që unë të ndryshoj numrin tim PIN?,change_pin
+Pagesa ime me kartë mund të jetë rikthyer.,reverted_card_payment?
+"Vura re se pagesa ime me kartë ishte anuluar, a mund të më thoni pse?",reverted_card_payment?
+Nuk jam në gjendje të blej asgjë në internet! Unë e kam përdorur kartën time në shumë site për një periudhë prej dy javësh dhe asnjë nga pagesat nuk ka kaluar. Pse po ndodh kjo?,reverted_card_payment?
+Besoj se pagesa ime me kartë është rikthyer,reverted_card_payment?
+Çfarë duhet të bëj nëse pagesa ime është kthyer?,reverted_card_payment?
+Pagesa ime u ndalua,reverted_card_payment?
+Pagesa ime u anulua,reverted_card_payment?
+Pagesa ime nuk u krye sepse aplikacioni e ktheu atë,reverted_card_payment?
+A u rikthye pagesa me kartë?,reverted_card_payment?
+A është e mundur që pagesa ime me kartë të jetë rikthyer?,reverted_card_payment?
+A është e mundur që unë të ndryshoj numrin tim PIN?,reverted_card_payment?
 Cilat janë hapat për të ndryshuar PIN-in tim në diçka tjetër?,change_pin
 Në çfarë mënyre mund ta ndryshoj PIN-in tim dhe ku duhet të jem?,change_pin
 A mund ta ndryshoj PIN-in tim në ndonjë makinë parash?,change_pin
@@ -6974,7 +6963,6 @@ Do të doja të ndryshoja PIN-in në kartën time.,change_pin
 "Unë jam në Austri për momentin, por me të vërtetë duhet të ndryshoj PIN-in tim tani. A mund ta bëj këtë edhe pse jam në një shtet tjetër?",change_pin
 Si mund ta ndryshoj PIN-in tim?,change_pin
 Unë dua të krijoj një kunj të ri.,change_pin
-,change_pin
 A duhet të shkoj në një bankë fizike për të ndryshuar PIN-in tim?,change_pin
 A mund ta ndryshoj PIN-in tim?,change_pin
 Ju lutem më ndihmoni të ndryshoj PIN-in tim.,change_pin
@@ -6994,7 +6982,6 @@ A lejohet të ndryshoj kodin tim PIN kudo?,change_pin
 Dua të zëvendësoj PIN-in tim aktual.,change_pin
 Më ndihmo të ndryshoj PIN-in tim.,change_pin
 A janë makinat e tyre të caktuara të parave ku mund të ndërroj pinin tim?,change_pin
-,change_pin
 Cilat makina të parave të gatshme do të më lejojnë të ndryshoj PIN-in tim?,change_pin
 Si mund ta ndryshoj PIN-in tim? Ndihmë.,change_pin
 A e dini se si ta ndryshoni PIN-in e kartës time?,change_pin
@@ -7004,19 +6991,19 @@ A mund ta ndryshoj PIN-in tim nëse dëshiroj?,change_pin
 Cilat ATM do të më lejojnë të ndryshoj PIN-in tim?,change_pin
 "Pini i kartës suaj mund të ndryshohet në çdo ATM Visa ose MasterCard me shërbime Pin, duke përjashtuar vendet si Belgjika, Luksemburgu, Austria, Gjermania, Spanja dhe Franca.",change_pin
 A duhet të shkoj në një bankë aktuale për të ndryshuar PIN-in tim?,change_pin
-"A mund ta ndryshoj pinin tim në ATM? Nëse po, cilat?",beneficiary_not_allowed
-A mund ta ndryshoj PIN-in e kartës?,beneficiary_not_allowed
-Cilat bankomat më lejojnë të ndryshoj pinin tim?,beneficiary_not_allowed
-A ka ndonjë mënyrë për të ndryshuar PIN-in tim pa pasur nevojë të shkoj në bankë?,beneficiary_not_allowed
-Më tregoni se cilat ATM më lejojnë të ndryshoj PIN-in tim.,beneficiary_not_allowed
-A mund ta ndryshoj PIN-in tim gjatë pushimeve?,beneficiary_not_allowed
-Cili është procesi për të ndryshuar PIN-in tim?,beneficiary_not_allowed
-Ju lutem më tregoni se si ta ndërroj pinin tim.,beneficiary_not_allowed
-Në cilin ATM mund ta ndërroj PIN-in?,beneficiary_not_allowed
-"Nëse nuk jam në vend dhe duhet të ndryshoj PIN-in tim, si mund të bëhet kjo?",beneficiary_not_allowed
-Çfarë duhet të bëj për të ndryshuar pinin tim?,beneficiary_not_allowed
-A mund ta ndryshoj numrin tim pin në një makinë parash?,beneficiary_not_allowed
-a ka diçka që më pengon të bëj transferime,beneficiary_not_allowed
+"A mund ta ndryshoj pinin tim në ATM? Nëse po, cilat?",change_pin
+A mund ta ndryshoj PIN-in e kartës?,change_pin
+Cilat bankomat më lejojnë të ndryshoj pinin tim?,change_pin
+A ka ndonjë mënyrë për të ndryshuar PIN-in tim pa pasur nevojë të shkoj në bankë?,change_pin
+Më tregoni se cilat ATM më lejojnë të ndryshoj PIN-in tim.,change_pin
+A mund ta ndryshoj PIN-in tim gjatë pushimeve?,change_pin
+Cili është procesi për të ndryshuar PIN-in tim?,change_pin
+Ju lutem më tregoni se si ta ndërroj pinin tim.,change_pin
+Në cilin ATM mund ta ndërroj PIN-in?,change_pin
+"Nëse nuk jam në vend dhe duhet të ndryshoj PIN-in tim, si mund të bëhet kjo?",change_pin
+Çfarë duhet të bëj për të ndryshuar pinin tim?,change_pin
+A mund ta ndryshoj numrin tim pin në një makinë parash?,change_pin
+a ka diçka që më pengon të bëj transferime,change_pin
 Cilat janë arsyet e mos lejimit të përfituesit tim?,beneficiary_not_allowed
 A ka diçka të gabuar me funksionet e transferimit? Unë vazhdoj të përpiqem të transferoj fonde dhe marr vetëm një mesazh gabimi.,beneficiary_not_allowed
 Cilat janë arsyet që do t'i refuzohej një përfituesi?,beneficiary_not_allowed
@@ -7160,19 +7147,19 @@ Si mund t'i transferoj paratë një përfituesi?,beneficiary_not_allowed
 Kjo tregon se transferimi në llogarinë time nuk u lejua.,beneficiary_not_allowed
 Ju lutem mund të shpjegoni pse mora një mesazh se transferimi im nuk është i mundur? Unë kurrë nuk kam pasur ndonjë problem për të bërë një transferim në të kaluarën.,beneficiary_not_allowed
 "Përshëndetje, mora një mesazh gabimi që më informonte për dështimin e transaksionit. Unë kam bërë transferimin e parave më parë dhe nuk dështoi kurrë. Ju lutem më tregoni se cili është problemi këtë herë.",beneficiary_not_allowed
-Pse do të marr një gabim që transferimi im nuk është i mundur kur e kam bërë më parë?,transfer_fee_charged
-Karta ime nuk më lejon të blej diçka dhe doja të dija pse.,transfer_fee_charged
-Pse nuk lejohet përfituesi im?,transfer_fee_charged
-a lejohet transferimi te një përfitues?,transfer_fee_charged
-Cilat janë rregullat për përfituesit?,transfer_fee_charged
-Pse nuk mund të blej kriptomonedhë në aplikacion?,transfer_fee_charged
-Pagesa nuk u përpunua,transfer_fee_charged
-Unë jam përpjekur të bëj një transferim dhe nuk ka kaluar. Tani po marr një mesazh gabimi. Cili është problemi?,transfer_fee_charged
-Kam probleme me transferimin e parave tek një përfitues.,transfer_fee_charged
-"Pse nuk do të marrësh transfertën time, unë vazhdoj të marr një mesazh gabimi.",transfer_fee_charged
-probleme me transferimin e përfituesve?,transfer_fee_charged
-Pse nuk do të lejohej përfituesi im?,transfer_fee_charged
-"Po i transferoja disa para një shoku, të cilat mendova se do të ishin falas, por shoh që ka një tarifë. Çfarë ka me këtë?",transfer_fee_charged
+Pse do të marr një gabim që transferimi im nuk është i mundur kur e kam bërë më parë?,beneficiary_not_allowed
+Karta ime nuk më lejon të blej diçka dhe doja të dija pse.,beneficiary_not_allowed
+Pse nuk lejohet përfituesi im?,beneficiary_not_allowed
+a lejohet transferimi te një përfitues?,beneficiary_not_allowed
+Cilat janë rregullat për përfituesit?,beneficiary_not_allowed
+Pse nuk mund të blej kriptomonedhë në aplikacion?,beneficiary_not_allowed
+Pagesa nuk u përpunua,beneficiary_not_allowed
+Unë jam përpjekur të bëj një transferim dhe nuk ka kaluar. Tani po marr një mesazh gabimi. Cili është problemi?,beneficiary_not_allowed
+Kam probleme me transferimin e parave tek një përfitues.,beneficiary_not_allowed
+"Pse nuk do të marrësh transfertën time, unë vazhdoj të marr një mesazh gabimi.",beneficiary_not_allowed
+probleme me transferimin e përfituesve?,beneficiary_not_allowed
+Pse nuk do të lejohej përfituesi im?,beneficiary_not_allowed
+"Po i transferoja disa para një shoku, të cilat mendova se do të ishin falas, por shoh që ka një tarifë. Çfarë ka me këtë?",beneficiary_not_allowed
 "Ka një tarifë për një transferim, ju lutem më shpjegoni këtë.",transfer_fee_charged
 Nuk e dija që kishte një tarifë për transferimin. Cila është tarifa?,transfer_fee_charged
 "Kam transferuar para, pse u tarifova për një tarifë shtesë?",transfer_fee_charged
@@ -7332,19 +7319,19 @@ Bëra një transferim dhe m'u ngarkua një tarifë që nuk duhej të ngarkohej!,
 Më ngarkuan një tarifë për një transferim. Nga erdhi?,transfer_fee_charged
 Pse u tarifova për transferimin tim?,transfer_fee_charged
 Si ndodhi që u ngarkua një tarifë kur transferova para,transfer_fee_charged
-Pse m'u ngarkua një tarifë për transferimin e parave?,receiving_money
-Pse marr një tarifë sa herë që transferoj?,receiving_money
-Më ngarkuan një tarifë për të cilën nuk më thanë,receiving_money
-Vura re një tarifë për një transferim. Pse eshte kjo? A është për shkak se kam bërë një transferim ndërkombëtar?,receiving_money
-A është e drejtë që jam ngarkuar për transferimin e parave?,receiving_money
-Ky transferim shkaktoi një tarifë që nuk mendoj se është e drejtë.,receiving_money
-"Kohët e fundit kam marrë një apartament të ri plazhi në Bora Bora dhe për ta mobiluar e kam përdorur shumë këtë llogari nga jashtë. Është shqetësuese, duke qenë një klient për një kohë të gjatë i yti, që pashë tarifa shtesë në llogarinë time nga transferimi i monedhës sime. A është kjo ajo që duhet të pres nga ju në të ardhmen?",receiving_money
-Pse u ngarkova me një tarifë kur bëra këtë transferim kur nuk duhej të kisha qenë?,receiving_money
-"Sapo u transferova jashtë shtetit dhe vura re se po më ngarkoni më shumë tarifa. Unë jam një klient besnik, kështu prisni t'i mbani klientët?",receiving_money
-"Nuk jam i sigurt pse më ngarkohet një tarifë shtesë vetëm për blerjen e një artikulli nga një vend tjetër? Kam paguar për artikullin dhe transportin, pse tarifohem shtesë?",receiving_money
-"Unë bëj pagesa për vendin tim jashtë vendit duke përdorur këtë llogari dhe duke qenë se e përdor kaq shpesh, pyesja veten pse tarifat u rritën papritur në vend që të uleshin? Unë do të mendoja se klientët si unë duhet të marrin stimuj për përdorimin e shërbimit tuaj",receiving_money
-Pse kishte një tarifë transferimi në llogarinë time?,receiving_money
-A mund të merret paga ime këtu?,receiving_money
+Pse m'u ngarkua një tarifë për transferimin e parave?,transfer_fee_charged
+Pse marr një tarifë sa herë që transferoj?,transfer_fee_charged
+Më ngarkuan një tarifë për të cilën nuk më thanë,transfer_fee_charged
+Vura re një tarifë për një transferim. Pse eshte kjo? A është për shkak se kam bërë një transferim ndërkombëtar?,transfer_fee_charged
+A është e drejtë që jam ngarkuar për transferimin e parave?,transfer_fee_charged
+Ky transferim shkaktoi një tarifë që nuk mendoj se është e drejtë.,transfer_fee_charged
+"Kohët e fundit kam marrë një apartament të ri plazhi në Bora Bora dhe për ta mobiluar e kam përdorur shumë këtë llogari nga jashtë. Është shqetësuese, duke qenë një klient për një kohë të gjatë i yti, që pashë tarifa shtesë në llogarinë time nga transferimi i monedhës sime. A është kjo ajo që duhet të pres nga ju në të ardhmen?",transfer_fee_charged
+Pse u ngarkova me një tarifë kur bëra këtë transferim kur nuk duhej të kisha qenë?,transfer_fee_charged
+"Sapo u transferova jashtë shtetit dhe vura re se po më ngarkoni më shumë tarifa. Unë jam një klient besnik, kështu prisni t'i mbani klientët?",transfer_fee_charged
+"Nuk jam i sigurt pse më ngarkohet një tarifë shtesë vetëm për blerjen e një artikulli nga një vend tjetër? Kam paguar për artikullin dhe transportin, pse tarifohem shtesë?",transfer_fee_charged
+"Unë bëj pagesa për vendin tim jashtë vendit duke përdorur këtë llogari dhe duke qenë se e përdor kaq shpesh, pyesja veten pse tarifat u rritën papritur në vend që të uleshin? Unë do të mendoja se klientët si unë duhet të marrin stimuj për përdorimin e shërbimit tuaj",transfer_fee_charged
+Pse kishte një tarifë transferimi në llogarinë time?,transfer_fee_charged
+A mund të merret paga ime këtu?,transfer_fee_charged
 Si mund të më paguajë shefi im direkt në kartë?,receiving_money
 Paga në GBP është marrë. A duhet të konfigurohet në një vend tjetër?,receiving_money
 Unë paguhem nga punëdhënësi im në GBP; a duhet të bëj ndonjë gjë në aplikacion për ta treguar këtë?,receiving_money
@@ -7427,19 +7414,19 @@ A mund të më dërgojnë miqtë para?,receiving_money
 Si mund të më paguajë shoku im?,receiving_money
 "Unë e kam marrë pagën në GBP, a do të duhet të konfigurohet?",receiving_money
 A mund të përdor një transfertë për të marrë transfertën time?,receiving_money
-A mund të transferojnë miqtë para njëri-tjetrit?,failed_transfer
-A mundet puna ime të depozitojë pagat e mia drejtpërdrejt në llogari.,failed_transfer
-A duhet të bëj ndonjë gjë të veçantë që shoku im të dërgojë para në llogarinë time?,failed_transfer
-Shoku im dëshiron të më dërgojë para. Cilat janë opsionet në dispozicion të tyre?,failed_transfer
-A duhet të shtoj pagën time?,failed_transfer
-A do ta pranoni rrogën time nëse është në një monedhë tjetër?,failed_transfer
-"Nëse paga ime është në GBP, a duhet të bëj diçka?",failed_transfer
-A mund të përdor një monedhë tjetër me pagën time?,failed_transfer
-Paga ime është në GBP. A duhet ta konfiguroj këtë diku?,failed_transfer
-Si mund të konfiguroj se në çfarë monedhe është paga ime nëse është në GBP?,failed_transfer
-A i përkrahni depozitat direkte nga punëdhënësi im?,failed_transfer
-A mund të paguhem përmes këtij sistemi?,failed_transfer
-Çfarë po ndodh? Unë jam përpjekur të transferoj para 5 herë tashmë. A është i dëmtuar sistemi? Kjo nuk duhet të ndodhë pasi ky është një transferim themelor.,failed_transfer
+A mund të transferojnë miqtë para njëri-tjetrit?,receiving_money
+A mundet puna ime të depozitojë pagat e mia drejtpërdrejt në llogari.,receiving_money
+A duhet të bëj ndonjë gjë të veçantë që shoku im të dërgojë para në llogarinë time?,receiving_money
+Shoku im dëshiron të më dërgojë para. Cilat janë opsionet në dispozicion të tyre?,receiving_money
+A duhet të shtoj pagën time?,receiving_money
+A do ta pranoni rrogën time nëse është në një monedhë tjetër?,receiving_money
+"Nëse paga ime është në GBP, a duhet të bëj diçka?",receiving_money
+A mund të përdor një monedhë tjetër me pagën time?,receiving_money
+Paga ime është në GBP. A duhet ta konfiguroj këtë diku?,receiving_money
+Si mund të konfiguroj se në çfarë monedhe është paga ime nëse është në GBP?,receiving_money
+A i përkrahni depozitat direkte nga punëdhënësi im?,receiving_money
+A mund të paguhem përmes këtij sistemi?,receiving_money
+Çfarë po ndodh? Unë jam përpjekur të transferoj para 5 herë tashmë. A është i dëmtuar sistemi? Kjo nuk duhet të ndodhë pasi ky është një transferim themelor.,receiving_money
 A ka ndonjë arsye që transferimi im dështoi?,failed_transfer
 Pse nuk përfundoi transferimi im?,failed_transfer
 Pse nuk munda ta përfundoja këtë transferim?,failed_transfer
@@ -7564,19 +7551,19 @@ Ju lutem mund të shpjegoni pse transferimi im dështoi?,failed_transfer
 "Unë mendoj se sistemi juaj mund të jetë i prishur sepse kam provuar të transferoj para 5x dhe nuk funksionon! Unë nuk jam duke bërë asgjë të komplikuar, është ajo që bëj zakonisht.",failed_transfer
 Po përpiqem të transferoj para dhe diçka nuk shkon.,failed_transfer
 "Unë po përpiqem pa sukses të bëj një transferim, a mund të më ndihmoni?",failed_transfer
-"Unë nuk mund të transferoj para nga llogaria ime në llogarinë e mikut tim, ai vazhdon ta refuzojë atë. Mund të më thoni pse? Unë kam fonde të mjaftueshme në llogarinë time për të transferuar.",transfer_into_account
-Pse banka më refuzoi transfertën?,transfer_into_account
-"U përpoqa dhe u përpoqa, por nuk arrita ta përfundoja transferimin. Më thuaj çfarë nuk shkon.",transfer_into_account
-"Po marr një gabim kur përpiqem të bëj një pagesë. Unë dua të blej një banesë, por pagesa ime e hipotekës duhet të kalojë. A mund te me ndihmosh?",transfer_into_account
-Transgeri që u përpoqa të bëja dështoi.,transfer_into_account
-"Kur u përpoqa t'i transferoja fonde mikut tim sot, nuk munda ta bëja këtë, pse?",transfer_into_account
-"Jam përpjekur t'u dërgoj para miqve të mi dhe vazhdoj të më refuzojnë. Ju lutem mund të më thoni pse, nuk e kuptoj.",transfer_into_account
-pse kam një transferim të dështuar,transfer_into_account
-Kam provuar të kryej një transferim shumë standard dhe e kam provuar tashmë 5 herë. Cfare po ndodh ketu? A ka ndonjë problem me sistemin tuaj?,transfer_into_account
-"Kur u përpoqa të bëja një transferim, dështoi.",transfer_into_account
-Pse nuk mund të përfundojë transferimi im?,transfer_into_account
-Pse nuk mund ta kryej transferimin?,transfer_into_account
-Unë dua të transferoj para. Si ta bëj këtë për llogarinë time?,transfer_into_account
+"Unë nuk mund të transferoj para nga llogaria ime në llogarinë e mikut tim, ai vazhdon ta refuzojë atë. Mund të më thoni pse? Unë kam fonde të mjaftueshme në llogarinë time për të transferuar.",failed_transfer
+Pse banka më refuzoi transfertën?,failed_transfer
+"U përpoqa dhe u përpoqa, por nuk arrita ta përfundoja transferimin. Më thuaj çfarë nuk shkon.",failed_transfer
+"Po marr një gabim kur përpiqem të bëj një pagesë. Unë dua të blej një banesë, por pagesa ime e hipotekës duhet të kalojë. A mund te me ndihmosh?",failed_transfer
+Transgeri që u përpoqa të bëja dështoi.,failed_transfer
+"Kur u përpoqa t'i transferoja fonde mikut tim sot, nuk munda ta bëja këtë, pse?",failed_transfer
+"Jam përpjekur t'u dërgoj para miqve të mi dhe vazhdoj të më refuzojnë. Ju lutem mund të më thoni pse, nuk e kuptoj.",failed_transfer
+pse kam një transferim të dështuar,failed_transfer
+Kam provuar të kryej një transferim shumë standard dhe e kam provuar tashmë 5 herë. Cfare po ndodh ketu? A ka ndonjë problem me sistemin tuaj?,failed_transfer
+"Kur u përpoqa të bëja një transferim, dështoi.",failed_transfer
+Pse nuk mund të përfundojë transferimi im?,failed_transfer
+Pse nuk mund ta kryej transferimin?,failed_transfer
+Unë dua të transferoj para. Si ta bëj këtë për llogarinë time?,failed_transfer
 Si mund të transferoj para në llogarinë time?,transfer_into_account
 Si mund ta lidh bankën time me llogarinë time të rimbushjes?,transfer_into_account
 Unë kam një llogari që është bosh nga fonde. A mund të transferoj disa nga një bankë tjetër?,transfer_into_account
@@ -7677,19 +7664,19 @@ Ju lutem mund të shpjegoni procesin e transferimit të mbushjes?,transfer_into_
 Çfarë mund të pres nëse përdor transfertën bankare për të plotësuar llogarinë time?,transfer_into_account
 Unë dua të transferoj disa para nga llogaria ime tjetër bankare në këtë.,transfer_into_account
 Unë dua të transferoj para nga një llogari tjetër në këtë.,transfer_into_account
-Do të doja të transferoja para nga një llogari në tjetrën për të plotësuar llogarinë time. Mund të shpjegoni se si mund ta bëj këtë?,verify_top_up
-A mund të tërheq para nga një bankë tjetër dhe t'i transferoj në llogarinë time të zbrazët?,verify_top_up
-Si mund të bëj transferimin e parave në llogarinë time?,verify_top_up
-Si mund të transferoj para në këtë llogari nga një bankë tjetër?,verify_top_up
-a mund të transferoj para në aplikacion,verify_top_up
-Si mund të transferoj para nga një llogari bankare në tjetrën?,verify_top_up
-Çfarë hapash ndërmerren për të transferuar para në llogarinë time?,verify_top_up
-"Unë nuk kam para në llogarinë time dhe po pyesja veten nëse mund të bëja një transfertë bankare, a vendoset më shumë në të?",verify_top_up
-Ju lutem mund të shpjegoni se si funksionojnë transfertat bankare?,verify_top_up
-A mund të më ndihmoni të transferoj fonde nga një llogari tjetër bankare në këtë llogari?,verify_top_up
-Unë jam duke kërkuar të transferoj disa para nga llogaria ime tjetër bankare në këtë.,verify_top_up
-ku mund të shkoj për të transferuar para nga një llogari në këtë,verify_top_up
-Më duhen para në këtë llogari nga një tjetër.,verify_top_up
+Do të doja të transferoja para nga një llogari në tjetrën për të plotësuar llogarinë time. Mund të shpjegoni se si mund ta bëj këtë?,transfer_into_account
+A mund të tërheq para nga një bankë tjetër dhe t'i transferoj në llogarinë time të zbrazët?,transfer_into_account
+Si mund të bëj transferimin e parave në llogarinë time?,transfer_into_account
+Si mund të transferoj para në këtë llogari nga një bankë tjetër?,transfer_into_account
+a mund të transferoj para në aplikacion,transfer_into_account
+Si mund të transferoj para nga një llogari bankare në tjetrën?,transfer_into_account
+Çfarë hapash ndërmerren për të transferuar para në llogarinë time?,transfer_into_account
+"Unë nuk kam para në llogarinë time dhe po pyesja veten nëse mund të bëja një transfertë bankare, a vendoset më shumë në të?",transfer_into_account
+Ju lutem mund të shpjegoni se si funksionojnë transfertat bankare?,transfer_into_account
+A mund të më ndihmoni të transferoj fonde nga një llogari tjetër bankare në këtë llogari?,transfer_into_account
+Unë jam duke kërkuar të transferoj disa para nga llogaria ime tjetër bankare në këtë.,transfer_into_account
+ku mund të shkoj për të transferuar para nga një llogari në këtë,transfer_into_account
+Më duhen para në këtë llogari nga një tjetër.,transfer_into_account
 A e dini se si mund të verifikoj që kam bërë një rimbushje të kartës time?,verify_top_up
 ku është kodi për verifikimin e kartës së mbushjes?,verify_top_up
 Si verifikohet karta e rimbushjes?,verify_top_up
@@ -7803,19 +7790,19 @@ Më trego si të verifikoj një rimbushje.,verify_top_up
 Ku është shfaqja e kodit të verifikimit?,verify_top_up
 Çfarë mund të bëj për të verifikuar kartën time?,verify_top_up
 Pse verifikohet rimbushja?,verify_top_up
-Pse më duhet rimbushja për t'u verifikuar?,getting_spare_card
-Si mund ta vërtetoj rimbushjen time?,getting_spare_card
-Cili është procesi i verifikimit për kartën time?,getting_spare_card
-Unë nuk e shoh askund kodin e verifikimit të ngritjes,getting_spare_card
-Më kërkohet një kod verifikimi. Ku ta gjej?,getting_spare_card
-Pse duhet verifikuar një rimbushje?,getting_spare_card
-Më ndihmo të gjej kodin e verifikimit në një rimbushje.,getting_spare_card
-Si mund ta verifikoj rimbushjen?,getting_spare_card
-Më duhet ndihmë për të gjetur kodin e verifikimit në kartën e ngritjes.,getting_spare_card
-Çfarë bën verifikimi i rimbushjes?,getting_spare_card
-NUK MUND TË GJEJ KODIN E VERIFIKIMIT TË MBROJTJES.,getting_spare_card
-Si mund të bëj verifikimin e kartës së mbushjes?,getting_spare_card
-pse më duhet të verifikoj mbushjen?,getting_spare_card
+Pse më duhet rimbushja për t'u verifikuar?,verify_top_up
+Si mund ta vërtetoj rimbushjen time?,verify_top_up
+Cili është procesi i verifikimit për kartën time?,verify_top_up
+Unë nuk e shoh askund kodin e verifikimit të ngritjes,verify_top_up
+Më kërkohet një kod verifikimi. Ku ta gjej?,verify_top_up
+Pse duhet verifikuar një rimbushje?,verify_top_up
+Më ndihmo të gjej kodin e verifikimit në një rimbushje.,verify_top_up
+Si mund ta verifikoj rimbushjen?,verify_top_up
+Më duhet ndihmë për të gjetur kodin e verifikimit në kartën e ngritjes.,verify_top_up
+Çfarë bën verifikimi i rimbushjes?,verify_top_up
+NUK MUND TË GJEJ KODIN E VERIFIKIMIT TË MBROJTJES.,verify_top_up
+Si mund të bëj verifikimin e kartës së mbushjes?,verify_top_up
+pse më duhet të verifikoj mbushjen?,verify_top_up
 A shtohen tarifa shtesë për dërgimin e kartave shtesë?,getting_spare_card
 Do të doja të porosisja një kartë shtesë,getting_spare_card
 Dua disa karta fizike shtesë.,getting_spare_card
@@ -7932,19 +7919,19 @@ si është e mundur të shtoni një kartë tjetër në llogari,getting_spare_car
 Si mund të bëj porosinë e një karte tjetër?,getting_spare_card
 Si mund të marr karta shtesë?,getting_spare_card
 A dërgoni më shumë se një kartë?,getting_spare_card
-A janë kartat shtesë falas?,top_up_by_cash_or_cheque
-A paguani për dërgimin e më shumë kartave?,top_up_by_cash_or_cheque
-A mund të kem një kartë tjetër përveç të parës?,top_up_by_cash_or_cheque
-"Më duhet një kartë e dytë, a mund të kem më shumë se një?",top_up_by_cash_or_cheque
-Unë dua një kartë të dytë rezervë. A është e mundur kjo?,top_up_by_cash_or_cheque
-Kartat fizike janë ato që më duhen më shumë,top_up_by_cash_or_cheque
-"A mund të kem një kartë rezervë për këtë llogari, ju lutem?",top_up_by_cash_or_cheque
-Më duhen dy letra. A është e mundur kjo?,top_up_by_cash_or_cheque
-A mund të kem më shumë se një kartë?,top_up_by_cash_or_cheque
-Më duhet një kartë tjetër për një anëtar të familjes sime. A është e mundur kjo? Sa shpejt mund ta marr një?,top_up_by_cash_or_cheque
-A ka ndonjë mënyrë që të marr më shumë karta fizike për t'i përdorur me llogarinë time?,top_up_by_cash_or_cheque
-A mund t'i jap një kartë të dytë për këtë llogari vajzës sime?,top_up_by_cash_or_cheque
-A është e mundur t'i jap një kartë të dytë nga llogaria ime vajzës sime?,top_up_by_cash_or_cheque
+A janë kartat shtesë falas?,getting_spare_card
+A paguani për dërgimin e më shumë kartave?,getting_spare_card
+A mund të kem një kartë tjetër përveç të parës?,getting_spare_card
+"Më duhet një kartë e dytë, a mund të kem më shumë se një?",getting_spare_card
+Unë dua një kartë të dytë rezervë. A është e mundur kjo?,getting_spare_card
+Kartat fizike janë ato që më duhen më shumë,getting_spare_card
+"A mund të kem një kartë rezervë për këtë llogari, ju lutem?",getting_spare_card
+Më duhen dy letra. A është e mundur kjo?,getting_spare_card
+A mund të kem më shumë se një kartë?,getting_spare_card
+Më duhet një kartë tjetër për një anëtar të familjes sime. A është e mundur kjo? Sa shpejt mund ta marr një?,getting_spare_card
+A ka ndonjë mënyrë që të marr më shumë karta fizike për t'i përdorur me llogarinë time?,getting_spare_card
+A mund t'i jap një kartë të dytë për këtë llogari vajzës sime?,getting_spare_card
+A është e mundur t'i jap një kartë të dytë nga llogaria ime vajzës sime?,getting_spare_card
 "Më ndihmoni, ju lutem, më duhet të plotësoj para.",top_up_by_cash_or_cheque
 A keni ndonjë mundësi për të plotësuar një çek në llogarinë time?,top_up_by_cash_or_cheque
 A ka diku ku mund të dërgoj një çek për ta shtuar në llogarinë time?,top_up_by_cash_or_cheque
@@ -8046,19 +8033,19 @@ Dua të përdor para për të rimbushur.,top_up_by_cash_or_cheque
 Si mund të shtoj para në llogarinë time?,top_up_by_cash_or_cheque
 A pranohen çeqe për rimbushje?,top_up_by_cash_or_cheque
 a mund të përdor kontrollin për të plotësuar,top_up_by_cash_or_cheque
-Si e rimbushni duke përdorur para në dorë?,order_physical_card
-A mund të plotësoj bilancin tim me një çek?,order_physical_card
-Unë u përpoqa të depozitoja një çek në llogarinë time dhe nuk më lejon.,order_physical_card
-A mund të plotësoj në internet?,order_physical_card
-Cila është mënyra më e mirë për të përdorur një çek për të plotësuar?,order_physical_card
-Si do të mbushja me një çek?,order_physical_card
-Cila është politika juaj e arkëtimit të çekut?,order_physical_card
-A mund të përdor para për të rimbushur,order_physical_card
-Nuk mund të zbuloj se si ta plotësoj llogarinë time duke përdorur para në dorë.,order_physical_card
-Sa kohë para se të fshihet një çek që dërgoj?,order_physical_card
-Si mund ta mbush llogarinë time me një çek?,order_physical_card
-A mund ta mbush llogarinë time me një çek?,order_physical_card
-A pranoni kontrolle për rimbushje?,order_physical_card
+Si e rimbushni duke përdorur para në dorë?,top_up_by_cash_or_cheque
+A mund të plotësoj bilancin tim me një çek?,top_up_by_cash_or_cheque
+Unë u përpoqa të depozitoja një çek në llogarinë time dhe nuk më lejon.,top_up_by_cash_or_cheque
+A mund të plotësoj në internet?,top_up_by_cash_or_cheque
+Cila është mënyra më e mirë për të përdorur një çek për të plotësuar?,top_up_by_cash_or_cheque
+Si do të mbushja me një çek?,top_up_by_cash_or_cheque
+Cila është politika juaj e arkëtimit të çekut?,top_up_by_cash_or_cheque
+A mund të përdor para për të rimbushur,top_up_by_cash_or_cheque
+Nuk mund të zbuloj se si ta plotësoj llogarinë time duke përdorur para në dorë.,top_up_by_cash_or_cheque
+Sa kohë para se të fshihet një çek që dërgoj?,top_up_by_cash_or_cheque
+Si mund ta mbush llogarinë time me një çek?,top_up_by_cash_or_cheque
+A mund ta mbush llogarinë time me një çek?,top_up_by_cash_or_cheque
+A pranoni kontrolle për rimbushje?,top_up_by_cash_or_cheque
 Sa kushton një kartë fizike?,order_physical_card
 Ku mund të dorëzohen kartat?,order_physical_card
 Çfarë duhet të bëj për të marrë një kartë fizike?,order_physical_card
@@ -8166,19 +8153,19 @@ Cilat janë vendet ku dorëzoni kartat?,order_physical_card
 Ku janë të disponueshme kartat për të porositur?,order_physical_card
 Në cilat vende dërgohen kartat?,order_physical_card
 Sa kushton një kartë fizike?,order_physical_card
-A marr një kartë të vërtetë?,virtual_card_not_working
-Çfarë tarifash paguani për kartën standarde?,virtual_card_not_working
-Dua një kartë fizike,virtual_card_not_working
-A do të paguani për një kartë fizike?,virtual_card_not_working
-Jam i interesuar te marr nje karte. Si shkon dikush për ta bërë këtë?,virtual_card_not_working
-Si do të merrja një kartë fizike për ta përdorur në dyqane?,virtual_card_not_working
-A do të ketë një tarifë për të marrë një kartë fizike?,virtual_card_not_working
-Do të doja të kisha një kartë fizike për ta mbajtur dhe përdorur. Si mund të marr një?,virtual_card_not_working
-Cila është procedura për marrjen e një karte?,virtual_card_not_working
-Ku transportohen kartat?,virtual_card_not_working
-Çfarë tarifash paguhen për një kartë fizike?,virtual_card_not_working
-a mund të porosis karta në aplikacion,virtual_card_not_working
-A mund të ringjall një kartë fizike.,virtual_card_not_working
+A marr një kartë të vërtetë?,order_physical_card
+Çfarë tarifash paguani për kartën standarde?,order_physical_card
+Dua një kartë fizike,order_physical_card
+A do të paguani për një kartë fizike?,order_physical_card
+Jam i interesuar te marr nje karte. Si shkon dikush për ta bërë këtë?,order_physical_card
+Si do të merrja një kartë fizike për ta përdorur në dyqane?,order_physical_card
+A do të ketë një tarifë për të marrë një kartë fizike?,order_physical_card
+Do të doja të kisha një kartë fizike për ta mbajtur dhe përdorur. Si mund të marr një?,order_physical_card
+Cila është procedura për marrjen e një karte?,order_physical_card
+Ku transportohen kartat?,order_physical_card
+Çfarë tarifash paguhen për një kartë fizike?,order_physical_card
+a mund të porosis karta në aplikacion,order_physical_card
+A mund të ringjall një kartë fizike.,order_physical_card
 Pse nuk funksionon karta ime virtuale e disponueshme?,virtual_card_not_working
 A mund ta përdor kartën time virtuale për të përfunduar transaksionet për anëtarësime?,virtual_card_not_working
 Pse nuk funksionon karta ime virtuale?,virtual_card_not_working
@@ -8207,19 +8194,19 @@ Cila është arsyeja që më refuzuan të përdorja kartën time virtuale të di
 Nuk mund ta fus në punë kartën time virtuale fare,virtual_card_not_working
 Nuk mund ta fus në punë kartën time virtuale.,virtual_card_not_working
 Unë nuk mund të bëj asnjë biznes me këtë kartë virtuale.,virtual_card_not_working
-"Mora informacionin e kartës sime virtuale, por nuk munda ta përdorja për të bërë një blerje. Pse ndodhi kjo dhe çfarë mund të bëj?",wrong_exchange_rate_for_cash_withdrawal
-Pse nuk mund të bëj pagesa të shumta me kartën time virtuale?,wrong_exchange_rate_for_cash_withdrawal
-Të lutem më ndihmo. Karta ime virtuale e disponueshme nuk do të funksionojë siç duhet.,wrong_exchange_rate_for_cash_withdrawal
-A mund ta përdor kartën time virtuale për pagesa mujore të përsëritura?,wrong_exchange_rate_for_cash_withdrawal
-karta virtuale nuk do të funksionojë për mua,wrong_exchange_rate_for_cash_withdrawal
-Karta ime virtuale e disponueshme nuk do të funksionojë.,wrong_exchange_rate_for_cash_withdrawal
-U përpoqa të përdor kartën time virtuale të disponueshme për të paguar një abonim në palestër dhe ajo u refuzua. Ndonjë ide pse?,wrong_exchange_rate_for_cash_withdrawal
-Pse karta ime e disponueshme nuk funksionon?,wrong_exchange_rate_for_cash_withdrawal
-Çfarë duhet të bëj për të funksionuar kartën virtuale?,wrong_exchange_rate_for_cash_withdrawal
-Çfarë duhet të bëj nëse karta ime virtuale e disponueshme nuk funksionon?,wrong_exchange_rate_for_cash_withdrawal
-Nuk mund të bëj blerje me kartën time virtuale.,wrong_exchange_rate_for_cash_withdrawal
-Kam një kartë të disponueshme por nuk funksionon?,wrong_exchange_rate_for_cash_withdrawal
-Karta ime virtuale u refuzua për një makinë me qira. Pse?,wrong_exchange_rate_for_cash_withdrawal
+"Mora informacionin e kartës sime virtuale, por nuk munda ta përdorja për të bërë një blerje. Pse ndodhi kjo dhe çfarë mund të bëj?",virtual_card_not_working
+Pse nuk mund të bëj pagesa të shumta me kartën time virtuale?,virtual_card_not_working
+Të lutem më ndihmo. Karta ime virtuale e disponueshme nuk do të funksionojë siç duhet.,virtual_card_not_working
+A mund ta përdor kartën time virtuale për pagesa mujore të përsëritura?,virtual_card_not_working
+karta virtuale nuk do të funksionojë për mua,virtual_card_not_working
+Karta ime virtuale e disponueshme nuk do të funksionojë.,virtual_card_not_working
+U përpoqa të përdor kartën time virtuale të disponueshme për të paguar një abonim në palestër dhe ajo u refuzua. Ndonjë ide pse?,virtual_card_not_working
+Pse karta ime e disponueshme nuk funksionon?,virtual_card_not_working
+Çfarë duhet të bëj për të funksionuar kartën virtuale?,virtual_card_not_working
+Çfarë duhet të bëj nëse karta ime virtuale e disponueshme nuk funksionon?,virtual_card_not_working
+Nuk mund të bëj blerje me kartën time virtuale.,virtual_card_not_working
+Kam një kartë të disponueshme por nuk funksionon?,virtual_card_not_working
+Karta ime virtuale u refuzua për një makinë me qira. Pse?,virtual_card_not_working
 "Kur tërhiqja para të gatshme, më është aplikuar kursi i gabuar i këmbimit.",wrong_exchange_rate_for_cash_withdrawal
 Kam marrë më pak para për shkak të kursit të këmbimit.,wrong_exchange_rate_for_cash_withdrawal
 Pse tarifa për nxjerrjen e parave është kaq e lartë? Ndjej se u ngarkova shumë dhe nuk do ta kisha përdorur kurrë këtë ATM nëse do ta kisha ditur paraprakisht.,wrong_exchange_rate_for_cash_withdrawal
@@ -8370,19 +8357,19 @@ Kursi i aplikuar për monedhën time të huaj në një ATM ishte i pasaktë.,wro
 Unë u përpoqa të përdor ATM me valutë të huaj. Norma e konvertimit e aplikuar ishte e gabuar.,wrong_exchange_rate_for_cash_withdrawal
 jam i hutuar. Pse mora një normë jashtëzakonisht të gabuar kur u përpoqa të përdor një ATM duke përdorur një monedhë të huaj?,wrong_exchange_rate_for_cash_withdrawal
 Bëra një tërheqje nga ATM gjatë festës dhe më vonë kuptova se u ngarkova me një tarifë të tepruar! Nuk do ta kisha bërë kurrë këtë tërheqje nëse do ta dija se do të tarifohesha kaq shumë.,wrong_exchange_rate_for_cash_withdrawal
-"Unë jam duke udhëtuar dhe u përpoqa të tërhiqja para, por nuk mora atë që duhej të merrja.",get_disposable_virtual_card
-Mora ca para nga bankomati gjatë festës dhe duket se jam ngarkuar shumë. Nuk do ta kisha bërë këtë po të dija për këto akuza të egra!,get_disposable_virtual_card
-Kursi i këmbimit ishte i gabuar në vendin e huaj ku mora para.,get_disposable_virtual_card
-Kursi i këmbimit për monedhën e huaj ATM është i gabuar.,get_disposable_virtual_card
-"A mund të marr para në monedhën time në ndonjë ATM? Unë jam me pushime dhe jam pak i shqetësuar sepse nuk kam para me vete, a është e mundur të tërhiqem këtu tashmë pa asnjë kosto shtesë?",get_disposable_virtual_card
-Mendoj se kursi i këmbimit për paratë që tërhoqa nuk ishte i saktë.,get_disposable_virtual_card
-Kursi i këmbimit për tërheqjen time të parave është i gabuar.,get_disposable_virtual_card
-"Kam një pyetje në lidhje me transaksionet me ATM. A mund të marr para nga një ATM kur jam duke udhëtuar jashtë vendit? Dhe, a mund t'i marr paratë në monedhën time të shtëpisë?",get_disposable_virtual_card
-e ke gabim kursin e këmbimit për tërheqjen time të parave,get_disposable_virtual_card
-Kam tërhequr cash jashtë vendit dhe kursi i këmbimit është i gabuar.,get_disposable_virtual_card
-Keni aplikuar kursin e gabuar të këmbimit ndërsa unë po udhëtoja jashtë vendit.,get_disposable_virtual_card
-Pse tërheqja ime e parave të gatshme iu dha kursi i gabuar i këmbimit?,get_disposable_virtual_card
-Mendoj se kursi i këmbimit është i gabuar për tërheqjen time nga ATM,get_disposable_virtual_card
+"Unë jam duke udhëtuar dhe u përpoqa të tërhiqja para, por nuk mora atë që duhej të merrja.",wrong_exchange_rate_for_cash_withdrawal
+Mora ca para nga bankomati gjatë festës dhe duket se jam ngarkuar shumë. Nuk do ta kisha bërë këtë po të dija për këto akuza të egra!,wrong_exchange_rate_for_cash_withdrawal
+Kursi i këmbimit ishte i gabuar në vendin e huaj ku mora para.,wrong_exchange_rate_for_cash_withdrawal
+Kursi i këmbimit për monedhën e huaj ATM është i gabuar.,wrong_exchange_rate_for_cash_withdrawal
+"A mund të marr para në monedhën time në ndonjë ATM? Unë jam me pushime dhe jam pak i shqetësuar sepse nuk kam para me vete, a është e mundur të tërhiqem këtu tashmë pa asnjë kosto shtesë?",wrong_exchange_rate_for_cash_withdrawal
+Mendoj se kursi i këmbimit për paratë që tërhoqa nuk ishte i saktë.,wrong_exchange_rate_for_cash_withdrawal
+Kursi i këmbimit për tërheqjen time të parave është i gabuar.,wrong_exchange_rate_for_cash_withdrawal
+"Kam një pyetje në lidhje me transaksionet me ATM. A mund të marr para nga një ATM kur jam duke udhëtuar jashtë vendit? Dhe, a mund t'i marr paratë në monedhën time të shtëpisë?",wrong_exchange_rate_for_cash_withdrawal
+e ke gabim kursin e këmbimit për tërheqjen time të parave,wrong_exchange_rate_for_cash_withdrawal
+Kam tërhequr cash jashtë vendit dhe kursi i këmbimit është i gabuar.,wrong_exchange_rate_for_cash_withdrawal
+Keni aplikuar kursin e gabuar të këmbimit ndërsa unë po udhëtoja jashtë vendit.,wrong_exchange_rate_for_cash_withdrawal
+Pse tërheqja ime e parave të gatshme iu dha kursi i gabuar i këmbimit?,wrong_exchange_rate_for_cash_withdrawal
+Mendoj se kursi i këmbimit është i gabuar për tërheqjen time nga ATM,wrong_exchange_rate_for_cash_withdrawal
 Për çfarë i përdorni kartat e disponueshme?,get_disposable_virtual_card
 Si mund të marr gjithashtu një kartë virtuale të disponueshme?,get_disposable_virtual_card
 "Dua një kartë virtuale të disponueshme, si ta bëj këtë?",get_disposable_virtual_card
@@ -8467,19 +8454,19 @@ Ju lutemi shpjegoni se si funksionon karta virtuale e disponueshme.,get_disposab
 Nuk jam i sigurt se si funksionojnë kartat virtuale të disponueshme. Ju lutem ndihmë.,get_disposable_virtual_card
 Si t'i përdor kartat e disponueshme?,get_disposable_virtual_card
 Si mund ta di nëse kam nevojë për një kartë të disponueshme?,get_disposable_virtual_card
-A mund të porosis një kartë virtuale të disponueshme?,top_up_failed
-Mund të më thoni si të marr një kartë virtuale të disponueshme?,top_up_failed
-Si mund të marr një kartë virtuale të disponueshme?,top_up_failed
-Mund të më thoni ku të shkoj për të marrë një kartë virtuale të disponueshme?,top_up_failed
-A ka ndonjë mënyrë që të marr një kartë virtuale të disponueshme gjithashtu?,top_up_failed
-Jam i interesuar të mësoj më shumë rreth kartave virtuale të disponueshme.,top_up_failed
-Si të porosisni një kartë virtuale të disponueshme?,top_up_failed
-Më duhet një kartë një përdorimshe për të bërë blerje në internet,top_up_failed
-"Më duhet të depozitoj kartën time virtuale, si ta bëj këtë.",top_up_failed
-Cilat janë përfitimet e një karte të disponueshme?,top_up_failed
-Për çfarë shërben karta e disponueshme?,top_up_failed
-"Kam dëgjuar për këto karta virtuale të disponueshme, por nuk e kuptoj se si funksionojnë.",top_up_failed
-Kartat e disponueshme - për çfarë janë ato?,top_up_failed
+A mund të porosis një kartë virtuale të disponueshme?,get_disposable_virtual_card
+Mund të më thoni si të marr një kartë virtuale të disponueshme?,get_disposable_virtual_card
+Si mund të marr një kartë virtuale të disponueshme?,get_disposable_virtual_card
+Mund të më thoni ku të shkoj për të marrë një kartë virtuale të disponueshme?,get_disposable_virtual_card
+A ka ndonjë mënyrë që të marr një kartë virtuale të disponueshme gjithashtu?,get_disposable_virtual_card
+Jam i interesuar të mësoj më shumë rreth kartave virtuale të disponueshme.,get_disposable_virtual_card
+Si të porosisni një kartë virtuale të disponueshme?,get_disposable_virtual_card
+Më duhet një kartë një përdorimshe për të bërë blerje në internet,get_disposable_virtual_card
+"Më duhet të depozitoj kartën time virtuale, si ta bëj këtë.",get_disposable_virtual_card
+Cilat janë përfitimet e një karte të disponueshme?,get_disposable_virtual_card
+Për çfarë shërben karta e disponueshme?,get_disposable_virtual_card
+"Kam dëgjuar për këto karta virtuale të disponueshme, por nuk e kuptoj se si funksionojnë.",get_disposable_virtual_card
+Kartat e disponueshme - për çfarë janë ato?,get_disposable_virtual_card
 Unë mendoj se rimbushja ime ka dështuar.,top_up_failed
 Mbushja nuk funksionon,top_up_failed
 Mbushja ime nuk funksionon,top_up_failed
@@ -8612,19 +8599,19 @@ Po përpiqesha të rimbushja dhe karta ime e kreditit u refuzua. Mund të më th
 Duket sikur mbushja ime është anuluar,top_up_failed
 Mbushja ime nuk funksionon. Pse eshte ajo?,top_up_failed
 "Hm, mbushja ime nuk funksionoi",top_up_failed
-"Unë kam nevojë për ndihmë për të gjetur se pse nuk jam në gjendje të mbush kartën time, ajo vazhdon të refuzohet. Është jashtëzakonisht e domosdoshme që ta zgjidh shpejt këtë.",balance_not_updated_after_bank_transfer
-Nuk mendoj se mbushja ime funksionoi,balance_not_updated_after_bank_transfer
-"Shtova fonde në llogarinë time, por aplikacioni nuk e përpunoi atë.",balance_not_updated_after_bank_transfer
-Pse nuk ka funksionuar rimbushja ime?,balance_not_updated_after_bank_transfer
-Pse dështoi rimbushja ime?,balance_not_updated_after_bank_transfer
-a ka ndonjë mënyrë për të rregulluar mbushjen time,balance_not_updated_after_bank_transfer
-Unë u përpoqa të mbush llogarinë time dhe nuk funksionoi,balance_not_updated_after_bank_transfer
-Nuk më lejoni të mbush kartën time!! Kush mund ta rregullojë atë për mua? Eshte urgjente! Si mund të zbuloj se cili është problemi me kartën time dhe si ta plotësoj atë ndryshe?,balance_not_updated_after_bank_transfer
-Ka qenë një flamur i kuq në krye.,balance_not_updated_after_bank_transfer
-Kishte ndonjë problem me mbushjen?,balance_not_updated_after_bank_transfer
-"Përshëndetje, u përpoqa të mbush kartën time sot dhe nuk funksionoi. E kam provuar në të kaluarën dhe funksionoi mirë, por nuk do ta bëjë më. Mund të më ndihmoni?",balance_not_updated_after_bank_transfer
-Rimbushja ime nuk u krye.,balance_not_updated_after_bank_transfer
-"Unë me të vërtetë duhet të mbush kartën time urgjentisht sot, por karta ime vazhdon të refuzohet!! Ju lutem mund të më ndihmoni me këtë problem ose më tregoni nëse keni ndonjë alternativë",balance_not_updated_after_bank_transfer
+"Unë kam nevojë për ndihmë për të gjetur se pse nuk jam në gjendje të mbush kartën time, ajo vazhdon të refuzohet. Është jashtëzakonisht e domosdoshme që ta zgjidh shpejt këtë.",top_up_failed
+Nuk mendoj se mbushja ime funksionoi,top_up_failed
+"Shtova fonde në llogarinë time, por aplikacioni nuk e përpunoi atë.",top_up_failed
+Pse nuk ka funksionuar rimbushja ime?,top_up_failed
+Pse dështoi rimbushja ime?,top_up_failed
+a ka ndonjë mënyrë për të rregulluar mbushjen time,top_up_failed
+Unë u përpoqa të mbush llogarinë time dhe nuk funksionoi,top_up_failed
+Nuk më lejoni të mbush kartën time!! Kush mund ta rregullojë atë për mua? Eshte urgjente! Si mund të zbuloj se cili është problemi me kartën time dhe si ta plotësoj atë ndryshe?,top_up_failed
+Ka qenë një flamur i kuq në krye.,top_up_failed
+Kishte ndonjë problem me mbushjen?,top_up_failed
+"Përshëndetje, u përpoqa të mbush kartën time sot dhe nuk funksionoi. E kam provuar në të kaluarën dhe funksionoi mirë, por nuk do ta bëjë më. Mund të më ndihmoni?",top_up_failed
+Rimbushja ime nuk u krye.,top_up_failed
+"Unë me të vërtetë duhet të mbush kartën time urgjentisht sot, por karta ime vazhdon të refuzohet!! Ju lutem mund të më ndihmoni me këtë problem ose më tregoni nëse keni ndonjë alternativë",top_up_failed
 ndihmo që paratë e mia nuk po shfaqen,balance_not_updated_after_bank_transfer
 si mund ta shoh atë që kam transferuar,balance_not_updated_after_bank_transfer
 Përshëndetje. A mund të më ndihmoni të kuptoni pse transferimi i fundit nga llogaria ime bankare në Mbretërinë e Bashkuar nuk shfaqet?,balance_not_updated_after_bank_transfer
@@ -8783,19 +8770,19 @@ Llogaria ime nuk tregon një transferim që kam bërë.,balance_not_updated_afte
 Fondet që kam transferuar nuk janë në llogarinë time,balance_not_updated_after_bank_transfer
 Sa kohë zgjasin zakonisht transfertat bankare?,balance_not_updated_after_bank_transfer
 "Përshëndetje Unë kam një llogari në Mbretërinë e Bashkuar. Mund të kontrolloni nëse gjithçka është në rregull me të? Kam bërë një transferim disa orë më parë, por nuk më shfaqet ende.",balance_not_updated_after_bank_transfer
-Sa kohë zgjat zakonisht një transferim nga llogaria në MB? Pas përfundimit të transferimit nuk shfaqet. Unë duhet të di se gjithçka që në fakt shkoi në rregull.,cash_withdrawal_not_recognised
-Mund të më thoni pse transferimi nuk shfaqet në llogarinë time?,cash_withdrawal_not_recognised
-Bilanci nuk është i përditësuar.,cash_withdrawal_not_recognised
-transferimi im nuk është aty,cash_withdrawal_not_recognised
-Bëra një transfertë bankare dhe gjendja nuk është përditësuar ende.,cash_withdrawal_not_recognised
-Pse nuk u përditësua bilanci im bankar?,cash_withdrawal_not_recognised
-Sa kohë duhet të pres derisa të shfaqen paratë e transferuara?,cash_withdrawal_not_recognised
-"Para disa orësh bëra një transfertë bankare nga llogaria ime në Mbretërinë e Bashkuar, por nuk shoh që ka ardhur. Mund të kontrolloni dhe të shihni nëse gjithçka është në rregull, ju lutem?",cash_withdrawal_not_recognised
-Nuk mund ta shoh transferimin që vendosa.,cash_withdrawal_not_recognised
-Kur do të jetë procesi i transferimit tim?,cash_withdrawal_not_recognised
-"A është diçka e gabuar me llogarinë time, gjendja ime nuk ndryshoi pasi transferova disa para",cash_withdrawal_not_recognised
-"Kanë kaluar disa orë, por nuk e shoh bilancin tim të përditësuar, a mund të më ndihmoni?",cash_withdrawal_not_recognised
-Sa është sasia e kohës së transfertave që zakonisht marrin nga MB? Sapo kisha përfunduar një transferim dhe asgjë nuk duket se po shfaqet kështu që duhet të jem i sigurt se gjërat janë në rregull.,cash_withdrawal_not_recognised
+Sa kohë zgjat zakonisht një transferim nga llogaria në MB? Pas përfundimit të transferimit nuk shfaqet. Unë duhet të di se gjithçka që në fakt shkoi në rregull.,balance_not_updated_after_bank_transfer
+Mund të më thoni pse transferimi nuk shfaqet në llogarinë time?,balance_not_updated_after_bank_transfer
+Bilanci nuk është i përditësuar.,balance_not_updated_after_bank_transfer
+transferimi im nuk është aty,balance_not_updated_after_bank_transfer
+Bëra një transfertë bankare dhe gjendja nuk është përditësuar ende.,balance_not_updated_after_bank_transfer
+Pse nuk u përditësua bilanci im bankar?,balance_not_updated_after_bank_transfer
+Sa kohë duhet të pres derisa të shfaqen paratë e transferuara?,balance_not_updated_after_bank_transfer
+"Para disa orësh bëra një transfertë bankare nga llogaria ime në Mbretërinë e Bashkuar, por nuk shoh që ka ardhur. Mund të kontrolloni dhe të shihni nëse gjithçka është në rregull, ju lutem?",balance_not_updated_after_bank_transfer
+Nuk mund ta shoh transferimin që vendosa.,balance_not_updated_after_bank_transfer
+Kur do të jetë procesi i transferimit tim?,balance_not_updated_after_bank_transfer
+"A është diçka e gabuar me llogarinë time, gjendja ime nuk ndryshoi pasi transferova disa para",balance_not_updated_after_bank_transfer
+"Kanë kaluar disa orë, por nuk e shoh bilancin tim të përditësuar, a mund të më ndihmoni?",balance_not_updated_after_bank_transfer
+Sa është sasia e kohës së transfertave që zakonisht marrin nga MB? Sapo kisha përfunduar një transferim dhe asgjë nuk duket se po shfaqet kështu që duhet të jem i sigurt se gjërat janë në rregull.,balance_not_updated_after_bank_transfer
 Shikova aplikacionin dhe thotë se kam tërhequr para. Unë nuk e bëra!,cash_withdrawal_not_recognised
 Nuk e tërhoqa shumën e parave të gatshme që shfaqet në aplikacion.,cash_withdrawal_not_recognised
 Unë pashë në aplikacion që një tërheqje parash ishte përfunduar në llogarinë time; megjithatë nuk e plotësova.,cash_withdrawal_not_recognised
@@ -8943,19 +8930,19 @@ Nuk më kujtohet një tërheqje parash.,cash_withdrawal_not_recognised
 "Dikush më vodhi llogarinë, ka një tërheqje, por nuk isha unë, a mund ta ndalojmë këtë, ju lutem?",cash_withdrawal_not_recognised
 Në aplikacionin tim ka fonde që nuk i kam marrë.,cash_withdrawal_not_recognised
 "Unë nuk kam tërhequr para, por e shoh atë transaksion në aplikacionin tim",cash_withdrawal_not_recognised
-Unë kam një tërheqje parash që nuk e njoh.,exchange_charge
-"Sapo më vodhën portofolin dhe ata tashmë e kanë përdorur kartën time! Ju lutemi ndihmoni, nuk mund të përballoj të humbas më shumë para!",exchange_charge
-"Ju lutem më ndihmoni, është urgjente. Dikush ka tërhequr para nga llogaria ime si pak orë përpara portofolit tim. Tani dua të ndaloj tërheqjen e më shumë parave.",exchange_charge
-Ndihmë! Ka një tërheqje parash në llogari që nuk e kam bërë!,exchange_charge
-Ka një tërheqje parash në deklaratën time që nuk e njoh,exchange_charge
-Aplikacioni po tregon tërheqje mt që nuk janë të miat.,exchange_charge
-"Aplikacioni im thotë se bëra një tërheqje, por nuk e bëra.",exchange_charge
-Ka para të rastësishme në llogarinë time.,exchange_charge
-Një tërheqje parash që nuk e kam autorizuar shfaqet në llogarinë time - a mund ta anuloni kartën time sa më shpejt të jetë e mundur?,exchange_charge
-Paratë e gatshme nuk u shfaqa në llogarinë time,exchange_charge
-Aplikacioni im thotë se tërheq fonde nga llogaria ime përmes një ATM.,exchange_charge
-"Ka pasur një tërheqje të pazakontë nga llogaria ime, a mund të më ndihmoni?",exchange_charge
-Disa para që nuk mora shfaqje në aplikacionin tim,exchange_charge
+Unë kam një tërheqje parash që nuk e njoh.,cash_withdrawal_not_recognised
+"Sapo më vodhën portofolin dhe ata tashmë e kanë përdorur kartën time! Ju lutemi ndihmoni, nuk mund të përballoj të humbas më shumë para!",cash_withdrawal_not_recognised
+"Ju lutem më ndihmoni, është urgjente. Dikush ka tërhequr para nga llogaria ime si pak orë përpara portofolit tim. Tani dua të ndaloj tërheqjen e më shumë parave.",cash_withdrawal_not_recognised
+Ndihmë! Ka një tërheqje parash në llogari që nuk e kam bërë!,cash_withdrawal_not_recognised
+Ka një tërheqje parash në deklaratën time që nuk e njoh,cash_withdrawal_not_recognised
+Aplikacioni po tregon tërheqje mt që nuk janë të miat.,cash_withdrawal_not_recognised
+"Aplikacioni im thotë se bëra një tërheqje, por nuk e bëra.",cash_withdrawal_not_recognised
+Ka para të rastësishme në llogarinë time.,cash_withdrawal_not_recognised
+Një tërheqje parash që nuk e kam autorizuar shfaqet në llogarinë time - a mund ta anuloni kartën time sa më shpejt të jetë e mundur?,cash_withdrawal_not_recognised
+Paratë e gatshme nuk u shfaqa në llogarinë time,cash_withdrawal_not_recognised
+Aplikacioni im thotë se tërheq fonde nga llogaria ime përmes një ATM.,cash_withdrawal_not_recognised
+"Ka pasur një tërheqje të pazakontë nga llogaria ime, a mund të më ndihmoni?",cash_withdrawal_not_recognised
+Disa para që nuk mora shfaqje në aplikacionin tim,cash_withdrawal_not_recognised
 Sa është tarifa e këmbimit?,exchange_charge
 A ka ndonjë tarifë shtesë të fshehur për shkëmbimet valutore?,exchange_charge
 "Nëse shkëmbej valuta në baza të shpeshta, a mund të marr një zbritje?",exchange_charge
@@ -9064,19 +9051,19 @@ Sa është tarifa për këmbimin e valutave të huaja?,exchange_charge
 Puna ime kërkon që unë të bëj shumë shkëmbime valutore dhe po pyesja veten për ndonjë zbritje të mundshme ose çmime më të ulëta.,exchange_charge
 Doja të dija se çfarë zbritje ofroheshin për shkëmbimet aktuale pasi është diçka që ndodh shpesh.,exchange_charge
 A ka tarifa gjatë këmbimit në valutë të huaj?,exchange_charge
-a ka ndonjë tarifë shkëmbimi,top_up_by_card_charge
-A ka një tarifë shtesë për të shkëmbyer monedhat?,top_up_by_card_charge
-Sa është tarifa për një këmbim valutor?,top_up_by_card_charge
-A duhet të paguaj më shumë për shkëmbimin e monedhave?,top_up_by_card_charge
-ku mund të mësoj për tarifat e këmbimit,top_up_by_card_charge
-Sa është saktësisht tarifa e këmbimit?,top_up_by_card_charge
-Më duhet të ndërroj disa valuta të huaja. Cila është tarifa për ta bërë këtë?,top_up_by_card_charge
-A ka një tarifë shtesë për të këmbyer monedhat?,top_up_by_card_charge
-A ka një tarifë shtesë për të shkëmbyer monedha të ndryshme?,top_up_by_card_charge
-A ka zbritje për shkëmbime të shumta valutore?,top_up_by_card_charge
-Mund të më thoni për tarifën e shkëmbimit?,top_up_by_card_charge
-Mund të më thoni sa është tarifa e këmbimit?,top_up_by_card_charge
-Çfarë komisioni merrni për këmbimin e valutës?,top_up_by_card_charge
+a ka ndonjë tarifë shkëmbimi,exchange_charge
+A ka një tarifë shtesë për të shkëmbyer monedhat?,exchange_charge
+Sa është tarifa për një këmbim valutor?,exchange_charge
+A duhet të paguaj më shumë për shkëmbimin e monedhave?,exchange_charge
+ku mund të mësoj për tarifat e këmbimit,exchange_charge
+Sa është saktësisht tarifa e këmbimit?,exchange_charge
+Më duhet të ndërroj disa valuta të huaja. Cila është tarifa për ta bërë këtë?,exchange_charge
+A ka një tarifë shtesë për të këmbyer monedhat?,exchange_charge
+A ka një tarifë shtesë për të shkëmbyer monedha të ndryshme?,exchange_charge
+A ka zbritje për shkëmbime të shumta valutore?,exchange_charge
+Mund të më thoni për tarifën e shkëmbimit?,exchange_charge
+Mund të më thoni sa është tarifa e këmbimit?,exchange_charge
+Çfarë komisioni merrni për këmbimin e valutës?,exchange_charge
 Sa është tarifa për përdorimin e një karte Mbushëse në SHBA?,top_up_by_card_charge
 Sa është tarifa për mbushjen e një karte amerikane?,top_up_by_card_charge
 Çfarë tarifash ngarkohen kur plotësoj,top_up_by_card_charge
@@ -9178,19 +9165,19 @@ a mund të tarifohem për mbushje me kartë,top_up_by_card_charge
 Cilat janë tarifat e rimbushjes për përdorimin e një karte bankare evropiane?,top_up_by_card_charge
 A ka tarifa për të shtuar para me një kartë ndërkombëtare?,top_up_by_card_charge
 Karta bankare evropiane për rimbushje do të ketë ndonjë tarifë shtesë?,top_up_by_card_charge
-A ka ndonjë tarifë nëse dua të shtoj para duke përdorur një kartë ndërkombëtare?,activate_my_card
-"Nëse do të përdorja një kartë bankare evropiane për një rimbushje, a do të paguaj?",activate_my_card
-A do të më tarifoni më shumë nëse mbush me një kartë ndërkombëtare?,activate_my_card
-A do të tarifohem për shtimin e parave duke përdorur një kartë ndërkombëtare?,activate_my_card
-Sa kushton të përdor kartën time të debitit ose kreditit në SHBA për të rimbushur?,activate_my_card
-A do të ketë tarifa shtesë në lidhje me shtimin e parave në kartën time ndërkombëtare?,activate_my_card
-A do të më vlerësoni më shumë tarifa nëse plotësoj një kartë ndërkombëtare?,activate_my_card
-A ka një tarifë për të shtuar fonde me një kartë krediti?,activate_my_card
-A do të ketë ndonjë tarifë për rimbushjet?,activate_my_card
-"Nëse kartat amerikane kanë një tarifë rimbushjeje, çfarë është ajo?",activate_my_card
-Cilat janë tarifat për përdorimin e një karte bankare evropiane?,activate_my_card
-Sa kushtojnë tarifat e rimbushjes?,activate_my_card
-"Unë dua të shtoj para në kartën time ndërkombëtare, kështu që a ka ndonjë tarifë për ta bërë këtë?",activate_my_card
+A ka ndonjë tarifë nëse dua të shtoj para duke përdorur një kartë ndërkombëtare?,top_up_by_card_charge
+"Nëse do të përdorja një kartë bankare evropiane për një rimbushje, a do të paguaj?",top_up_by_card_charge
+A do të më tarifoni më shumë nëse mbush me një kartë ndërkombëtare?,top_up_by_card_charge
+A do të tarifohem për shtimin e parave duke përdorur një kartë ndërkombëtare?,top_up_by_card_charge
+Sa kushton të përdor kartën time të debitit ose kreditit në SHBA për të rimbushur?,top_up_by_card_charge
+A do të ketë tarifa shtesë në lidhje me shtimin e parave në kartën time ndërkombëtare?,top_up_by_card_charge
+A do të më vlerësoni më shumë tarifa nëse plotësoj një kartë ndërkombëtare?,top_up_by_card_charge
+A ka një tarifë për të shtuar fonde me një kartë krediti?,top_up_by_card_charge
+A do të ketë ndonjë tarifë për rimbushjet?,top_up_by_card_charge
+"Nëse kartat amerikane kanë një tarifë rimbushjeje, çfarë është ajo?",top_up_by_card_charge
+Cilat janë tarifat për përdorimin e një karte bankare evropiane?,top_up_by_card_charge
+Sa kushtojnë tarifat e rimbushjes?,top_up_by_card_charge
+"Unë dua të shtoj para në kartën time ndërkombëtare, kështu që a ka ndonjë tarifë për ta bërë këtë?",top_up_by_card_charge
 Ju lutem më ndihmoni me kartën time. Nuk do të aktivizohet.,activate_my_card
 "Jam i lodhur, por nuk mund ta aktivizoj kartën time.",activate_my_card
 Unë dua të filloj të përdor kartën time.,activate_my_card
@@ -9337,19 +9324,19 @@ Sapo mora kartën time dhe nuk mund ta çoj në punë.,activate_my_card
 "Sapo mora kartën time të zëvendësimit, çfarë hapash duhet të ndërmarr për ta aktivizuar?",activate_my_card
 "Dua të përdor kartën time, si do ta aktivizoja?",activate_my_card
 Si mund ta aktivizoj kartën time të re,activate_my_card
-"Cilat janë hapat për të aktivizuar kartën, pasi duket se nuk funksionon?",cash_withdrawal_charge
-Sapo mora kartën time të re. Si mund ta aktivizoj?,cash_withdrawal_charge
-Ju lutem më ndihmoni me aktivizimin.,cash_withdrawal_charge
-Ku të shkoj për të aktivizuar kartën time?,cash_withdrawal_charge
-"Nëse ju duhet të llogarisni, shtypni aktivizoni dhe ndiqni udhëzimet, mund ta aktivizoni atë në vetëm disa sekonda.",cash_withdrawal_charge
-A është aktivizuar karta ime e re?,cash_withdrawal_charge
-Më ndihmo të aktivizoj kartën time.,cash_withdrawal_charge
-me duket se nuk mund ta aktivizoj karten,cash_withdrawal_charge
-Çfarë duhet të bëj për të përdorur kartën time që sapo mora?,cash_withdrawal_charge
-"Karta ime e re ka ardhur, cila është procedura e aktivizimit?",cash_withdrawal_charge
-Si mund të rinovohet karta ime e re?,cash_withdrawal_charge
-Cila është mënyra e duhur për të aktivizuar një kartë?,cash_withdrawal_charge
-Si mund ta aktivizoj kartën time që sapo ka ardhur?,cash_withdrawal_charge
+"Cilat janë hapat për të aktivizuar kartën, pasi duket se nuk funksionon?",activate_my_card
+Sapo mora kartën time të re. Si mund ta aktivizoj?,activate_my_card
+Ju lutem më ndihmoni me aktivizimin.,activate_my_card
+Ku të shkoj për të aktivizuar kartën time?,activate_my_card
+"Nëse ju duhet të llogarisni, shtypni aktivizoni dhe ndiqni udhëzimet, mund ta aktivizoni atë në vetëm disa sekonda.",activate_my_card
+A është aktivizuar karta ime e re?,activate_my_card
+Më ndihmo të aktivizoj kartën time.,activate_my_card
+me duket se nuk mund ta aktivizoj karten,activate_my_card
+Çfarë duhet të bëj për të përdorur kartën time që sapo mora?,activate_my_card
+"Karta ime e re ka ardhur, cila është procedura e aktivizimit?",activate_my_card
+Si mund të rinovohet karta ime e re?,activate_my_card
+Cila është mënyra e duhur për të aktivizuar një kartë?,activate_my_card
+Si mund ta aktivizoj kartën time që sapo ka ardhur?,activate_my_card
 Pse ka një tarifë kur kam nxjerrë para?,cash_withdrawal_charge
 Pse jam ngarkuar me një tarifë për tërheqjen e parave?,cash_withdrawal_charge
 Kam bërë një tërheqje parash dhe ka një tarifë. Çfarë është kjo?,cash_withdrawal_charge
@@ -9514,19 +9501,19 @@ Pse më ngarkove ekstra kur tërhoqa para?,cash_withdrawal_charge
 Kam përdorur një ATM dhe ka pasur një tarifë shtesë.,cash_withdrawal_charge
 "ajo tarifë nuk duhet të jetë aty, ma keni ngarkuar paratë për një gjë të panevojshme.",cash_withdrawal_charge
 Pse kishte një tarifë shtesë me tërheqjen e parave të mia?,cash_withdrawal_charge
-Pse kërkove një tarifë kur u tërhoqa nga një bankomat?,card_about_to_expire
-Pse tani ka një tarifë për të bërë tërheqje parash? Doja pak para pasi shkova në dyqan ushqimor dhe ka një tarifë të re!,card_about_to_expire
-Pse jam duke u ngarkuar për tërheqjen e parave?,card_about_to_expire
-Pse m'u ngarkua një tarifë për tërheqjen time?,card_about_to_expire
-Pse më kushtoi ekstra tërheqja e parave?,card_about_to_expire
-Pse m'u ngarkua një tarifë për tërheqjen e parave nga karta ime?,card_about_to_expire
-Sa është tarifa për tërheqjen e parave të gatshme?,card_about_to_expire
-"Tërhoqa para dhe mora një tarifë, ju lutem shpjegoni",card_about_to_expire
-"Unë përdora kartën time për të marrë para në dorë, më pas m'u ngarkua një tarifë që nuk duhej të kisha paguar.",card_about_to_expire
-Vura re një tarifë tjetër ndërsa po nxirrja paratë e mia.,card_about_to_expire
-Pse m'u ngarkua një tarifë për tërheqjen e parave?,card_about_to_expire
-A kushtojnë ndonjë tërheqje parash?,card_about_to_expire
-Pse ka një tarifë për marrjen e parave të gatshme?,card_about_to_expire
+Pse kërkove një tarifë kur u tërhoqa nga një bankomat?,cash_withdrawal_charge
+Pse tani ka një tarifë për të bërë tërheqje parash? Doja pak para pasi shkova në dyqan ushqimor dhe ka një tarifë të re!,cash_withdrawal_charge
+Pse jam duke u ngarkuar për tërheqjen e parave?,cash_withdrawal_charge
+Pse m'u ngarkua një tarifë për tërheqjen time?,cash_withdrawal_charge
+Pse më kushtoi ekstra tërheqja e parave?,cash_withdrawal_charge
+Pse m'u ngarkua një tarifë për tërheqjen e parave nga karta ime?,cash_withdrawal_charge
+Sa është tarifa për tërheqjen e parave të gatshme?,cash_withdrawal_charge
+"Tërhoqa para dhe mora një tarifë, ju lutem shpjegoni",cash_withdrawal_charge
+"Unë përdora kartën time për të marrë para në dorë, më pas m'u ngarkua një tarifë që nuk duhej të kisha paguar.",cash_withdrawal_charge
+Vura re një tarifë tjetër ndërsa po nxirrja paratë e mia.,cash_withdrawal_charge
+Pse m'u ngarkua një tarifë për tërheqjen e parave?,cash_withdrawal_charge
+A kushtojnë ndonjë tërheqje parash?,cash_withdrawal_charge
+Pse ka një tarifë për marrjen e parave të gatshme?,cash_withdrawal_charge
 A ka ndonjë tarifë të shprehur nëse e dua kartën time të re më shpejt?,card_about_to_expire
 A duhet të bëj diçka për të marrë një kartë të re pasi të skadojë?,card_about_to_expire
 "Unë jam jashtë shtetit në Kinë, a mund të marr një kartë zëvendësimi?",card_about_to_expire
@@ -9643,19 +9630,19 @@ A mund të dërgoj një kartë në Kinë?,card_about_to_expire
 Si mund të marr një kartë të re kur skadon ajo e vjetër?,card_about_to_expire
 Çfarë ndodh kur kartela ime skadon?,card_about_to_expire
 Cili është procesi kur kartela ime duhet të skadojë?,card_about_to_expire
-Karta ime skadon së shpejti,apple_pay_or_google_pay
-Karta ime është pothuajse e skaduar. Sa shpejt do të marr një të re dhe sa kushton?,apple_pay_or_google_pay
-Cili është procesi për të marrë një kartë të re kur skadon e vjetër?,apple_pay_or_google_pay
-Më ndihmo të porosis një kartë të re që do të skadojë së shpejti.,apple_pay_or_google_pay
-Çfarë duhet të bëj kur i afrohem datës së skadencës së kartës sime?,apple_pay_or_google_pay
-Karta ime është gati të skadojë. Ku mund të marr një të re.,apple_pay_or_google_pay
-duan të marrin një kartë të re në Kinë,apple_pay_or_google_pay
-Mund të më jepni informacion se çfarë të bëj kur kartela ime skadon?,apple_pay_or_google_pay
-"Karta ime ka një datë skadimi, a do të dërgoni një të re automatikisht?",apple_pay_or_google_pay
-A mund të marr një kartë të re edhe pse jam në Kinë?,apple_pay_or_google_pay
-"Karta ime po skadon, si mund të marr një të re?",apple_pay_or_google_pay
-"Unë mendoj se karta ime po skadon, çfarë ndodh atëherë?",apple_pay_or_google_pay
-Si mund të marr një datë të re skadence?,apple_pay_or_google_pay
+Karta ime skadon së shpejti,card_about_to_expire
+Karta ime është pothuajse e skaduar. Sa shpejt do të marr një të re dhe sa kushton?,card_about_to_expire
+Cili është procesi për të marrë një kartë të re kur skadon e vjetër?,card_about_to_expire
+Më ndihmo të porosis një kartë të re që do të skadojë së shpejti.,card_about_to_expire
+Çfarë duhet të bëj kur i afrohem datës së skadencës së kartës sime?,card_about_to_expire
+Karta ime është gati të skadojë. Ku mund të marr një të re.,card_about_to_expire
+duan të marrin një kartë të re në Kinë,card_about_to_expire
+Mund të më jepni informacion se çfarë të bëj kur kartela ime skadon?,card_about_to_expire
+"Karta ime ka një datë skadimi, a do të dërgoni një të re automatikisht?",card_about_to_expire
+A mund të marr një kartë të re edhe pse jam në Kinë?,card_about_to_expire
+"Karta ime po skadon, si mund të marr një të re?",card_about_to_expire
+"Unë mendoj se karta ime po skadon, çfarë ndodh atëherë?",card_about_to_expire
+Si mund të marr një datë të re skadence?,card_about_to_expire
 "Përshëndetje, unë kam një orë Apple. Si mund ta përdor për të plotësuar kartën time?",apple_pay_or_google_pay
 A mund të përdor Google Pay për të rimbushur?,apple_pay_or_google_pay
 pse mbushja nuk funksionon edhe nëse kam marrë American Express në Apple Bay?,apple_pay_or_google_pay
@@ -9769,19 +9756,19 @@ A mund të ndihmoni për mbushjen e orës së Apple?,apple_pay_or_google_pay
 "Kam marrë American Express në pagesën e Apple, pse nuk funksionon rimbushja?",apple_pay_or_google_pay
 Si mund të plotësoj duke përdorur Google Pay?,apple_pay_or_google_pay
 "Unë jam përpjekur të shtoj para me pagesën e Apple, por nuk funksionon, pse?",apple_pay_or_google_pay
-Google Pay nuk funksionon. Çfarë nuk shkon?,verify_my_identity
-Google Pay nuk më lejon të mbush.,verify_my_identity
-"Apple Pay nuk pranon kartën time American Express, a mund të më ndihmoni me këtë problem?",verify_my_identity
-"Mora American Express në Apple Pay, pse rimbushja nuk funksionon siç duhet?",verify_my_identity
-"Ju lutem, a mund të më ndihmoni në Apple Pay, për të vënë në punë Top Up?",verify_my_identity
-A mund ta përdor google play si aplikacionin tim kryesor për të plotësuar?,verify_my_identity
-A e mbështet Apple Watch rimbushjen e llogarisë sime?,verify_my_identity
-Po përpiqem të përdor Apple Watch tim për të plotësuar pagesën time në Google. A kam nevojë për një aplikacion të veçantë?,verify_my_identity
-A mund të paguaj për gazin tim duke përdorur orën time Apple?,verify_my_identity
-"A mund të përdoret Google Pay për rimbushje, ju lutemi ndihmoni?",verify_my_identity
-Si mund të plotësoj me Google Play?,verify_my_identity
-Si mund të plotësoj me Apple Pay?,verify_my_identity
-A është e mundur të përdor orën time të Apple për mbushje?,verify_my_identity
+Google Pay nuk funksionon. Çfarë nuk shkon?,apple_pay_or_google_pay
+Google Pay nuk më lejon të mbush.,apple_pay_or_google_pay
+"Apple Pay nuk pranon kartën time American Express, a mund të më ndihmoni me këtë problem?",apple_pay_or_google_pay
+"Mora American Express në Apple Pay, pse rimbushja nuk funksionon siç duhet?",apple_pay_or_google_pay
+"Ju lutem, a mund të më ndihmoni në Apple Pay, për të vënë në punë Top Up?",apple_pay_or_google_pay
+A mund ta përdor google play si aplikacionin tim kryesor për të plotësuar?,apple_pay_or_google_pay
+A e mbështet Apple Watch rimbushjen e llogarisë sime?,apple_pay_or_google_pay
+Po përpiqem të përdor Apple Watch tim për të plotësuar pagesën time në Google. A kam nevojë për një aplikacion të veçantë?,apple_pay_or_google_pay
+A mund të paguaj për gazin tim duke përdorur orën time Apple?,apple_pay_or_google_pay
+"A mund të përdoret Google Pay për rimbushje, ju lutemi ndihmoni?",apple_pay_or_google_pay
+Si mund të plotësoj me Google Play?,apple_pay_or_google_pay
+Si mund të plotësoj me Apple Pay?,apple_pay_or_google_pay
+A është e mundur të përdor orën time të Apple për mbushje?,apple_pay_or_google_pay
 Çfarë kërkoni për verifikimin e identitetit?,verify_my_identity
 Si mund të provoj se jam unë?,verify_my_identity
 Më duhet të verifikoj identitetin tim. Si ta bëj këtë?,verify_my_identity
@@ -9873,19 +9860,19 @@ Ku në aplikacion mund të shkoj për të verifikuar identitetin tim?,verify_my_
 Si mund të ndihmoni në verifikimin e identitetit tim?,verify_my_identity
 Si mund të bëj verifikimin e identitetit tim?,verify_my_identity
 pse duhet të tregoj ID,verify_my_identity
-Çfarë kërkoni për verifikimin e identifikimit?,country_support
-Cilat forma të ID-së duhet të përdor për verifikim?,country_support
-Cilat janë hapat për kontrollet e identitetit?,country_support
-Çfarë ID më duhet për të verifikuar identitetin tim?,country_support
-Si mund ta plotësoj kontrollin e identitetit?,country_support
-Si e kontrolloni identitetin tim?,country_support
-Çfarë dokumentesh më duhen për kontrollin e identitetit?,country_support
-Çfarë përdor për të verifikuar identitetin tim?,country_support
-Çfarë nevojitet për verifikimin e identitetit?,country_support
-"Për kontrollin e identitetit, çfarë lloj dokumentesh duhet të kem?",country_support
-Çfarë forme identifikimi pranohet?,country_support
-Çfarë nevojitet për verifikimin e identitetit?,country_support
-çfarë dokumentesh më duhen për të verifikuar se kush jam,country_support
+Çfarë kërkoni për verifikimin e identifikimit?,verify_my_identity
+Cilat forma të ID-së duhet të përdor për verifikim?,verify_my_identity
+Cilat janë hapat për kontrollet e identitetit?,verify_my_identity
+Çfarë ID më duhet për të verifikuar identitetin tim?,verify_my_identity
+Si mund ta plotësoj kontrollin e identitetit?,verify_my_identity
+Si e kontrolloni identitetin tim?,verify_my_identity
+Çfarë dokumentesh më duhen për kontrollin e identitetit?,verify_my_identity
+Çfarë përdor për të verifikuar identitetin tim?,verify_my_identity
+Çfarë nevojitet për verifikimin e identitetit?,verify_my_identity
+"Për kontrollin e identitetit, çfarë lloj dokumentesh duhet të kem?",verify_my_identity
+Çfarë forme identifikimi pranohet?,verify_my_identity
+Çfarë nevojitet për verifikimin e identitetit?,verify_my_identity
+çfarë dokumentesh më duhen për të verifikuar se kush jam,verify_my_identity
 Në cilat vende jeni në dispozicion?,country_support
 Ku mbështeten kartat?,country_support
 Si mund të marr një kartë nëse jetoj në SHBA?,country_support
